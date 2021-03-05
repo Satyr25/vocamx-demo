@@ -1,0 +1,5 @@
+@media all and (min-width: 400px) {
+    #encabezado-nosotros{
+        background-size: 100% auto;
+    }
+}

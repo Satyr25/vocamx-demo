@@ -1,0 +1,547 @@
+@media all and (max-width: 992px){
+    #main-banners .banner::before,
+    #main-banners .banner::after,
+    .bloque-bombers-mobile .bloque-sm::before,
+    .bloque-bombers-mobile .bloque-sm::after{
+        border-style: none;
+    }
+
+    .bloque-sm{
+        background-color: #f0f0f0;
+    }
+
+    #hub-productos {
+        max-width: 1410px;
+        position: relative;
+        background-color: #f9f9f9;
+    }
+
+    #personalizacion .container {
+        height: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #bombers-index #boletin,
+    #bombers-index #legal,
+    #bombers-index #imagotipo,
+    #bombers-index #redes,
+    #bombers-index .footer{
+        display: none;
+    }
+
+    #bombers-index > .wrap{
+        background-color: #f9f9f9;
+    }
+
+    #personalizacion-index #boletin,
+    #personalizacion-index #legal,
+    #personalizacion-index #imagotipo,
+    #personalizacion-index #redes{
+        display: none;
+    }
+
+    .asesor-online{
+        font-family: Bebas Neue;
+        font-size: 26px;
+        color: #fff;
+        font-weight: normal;
+    }
+
+    #hidable-header-bar{
+        padding: 0;
+        background-color: #C10230;
+    }
+
+    #hidable-header-bar img {
+        max-height: 54px;
+        max-width: 21px;
+        margin-top: 4px;
+        margin-right: 10px;
+    }
+
+    #btn-comprar-custom{
+        width: 35%;
+        padding: 0;
+        position: absolute;
+        top: -30%;
+        transform: translateX(90%);
+    }
+
+    .col-md-9.col-sm-12.col-xs-12.productos-container {
+        margin-top: 61px;
+    }
+
+    .filtro-mobile {
+        position: fixed;
+        z-index: 2;
+        overflow-x: hidden;
+        width: 100%;
+        top: 107px;
+    }
+
+    #bloque-2 {
+        padding: none;
+        padding-left: none;
+        padding-right: none;
+        padding-top: none;
+    }
+
+    #lin-pasos{
+        display: none;
+    }
+
+    .fullscreen .bottom-block-fs > .row{
+        top: 75%;
+        transform: translateY(-75%);
+    }
+
+    .fullscreen .center-block-fs{
+        visibility: hidden;
+    }
+
+    #crea-la-tuya{
+        margin-bottom: 10px;
+        float: none;
+    }
+
+    .bloque-der,.bloque-izq{
+        visibility: hidden;
+    }
+
+    #resumen-compra-bloque{
+        position: inherit;
+        max-height: unset;
+        overflow-y: auto;
+        height: 100%;
+        margin-bottom: 30px;
+    }
+
+    #w0{
+        margin-top: 30px;
+    }
+
+    #detalles-trazos #w0{
+        margin-top: 10px;
+    }
+
+    .opciones-identidad #w0{
+        margin-top: 0;
+    }
+
+    #fotos-producto .slick-list{
+        margin: 0%;
+    }
+
+    .hidden-mobile{
+        display: none;
+    }
+
+    #entrega-block{
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    #menu a{
+        font-size: 1em;
+    }
+
+    .asistencia-ttl{
+        margin-right: 4%;
+    }
+
+    .img-whats{
+        margin-right: 4%;
+    }
+
+    .bloques-best{
+        width: 50%;
+        min-height: 250px;
+    }
+
+    .bloques-best:nth-child(3){
+        border-right: unset;
+    }
+
+    .images-best-section{
+        max-height: 150px;
+        margin-top: 15px;
+    }
+
+    .display-mobile{
+        display: initial;
+    }
+
+    #asistencia{
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .imagenes{
+        padding: 0;
+    }
+
+    .imagenes img, .imagenes.youtube iframe{
+        max-height: 370px;
+    }
+
+    #carrusel-gato .slick-dots button {
+        width: 5px;
+        height: 5px;
+    }
+
+    #pasos-trazos > .container{
+        padding: 0 15px;
+    }
+
+    #fotos-producto .slick-dots button, #carrusel-gato .slick-dots button{
+        background-color: #f1f1f1;
+        border: 0 !important;
+        margin: 0 2px;
+    }
+
+    .img-paso{
+        width: 100%;
+    }
+
+    #pasos-trazos .container{
+        padding: 0;
+    }
+
+    #bloques-img-trazos .col-md-4 {
+        padding: 0 2.5px;
+    }
+
+    #bloques-img-trazos .col-md-4:first-child {
+        padding-left: 0;
+    }
+
+    #bloques-img-trazos .col-md-4:last-child {
+        padding-right: 0;
+    }
+
+    #titulo-trazos .titulo-seccion-pasos{
+        font-size: 1em;
+    }
+
+    .titulo-seccion-pasos {
+        font-size: 1.4em;
+    }
+
+    #detalles-trazos > .col-md-6:first-child,
+    #detalles-trazos{
+        padding: 0px 17px 0px 6px;
+    }
+
+    #sube-foto, #info-foto-bloque {
+        padding: 0 15px;
+    }
+
+    #pasos-trazos {
+        bottom: 0;
+        padding: 0px;
+        margin-bottom: 0;
+    }
+
+    #main-banners .banner{
+        margin-bottom: 10px;
+    }
+
+    .banner .nuevo-img{
+        top: 1%;
+    }
+
+    #bombers-index .container-fluid.linea-pasos{
+        margin-bottom: 0;
+    }
+
+    #hidable-header-bar #meses-block{
+        text-align: center;
+    }
+
+    .subtotal-precios{
+        text-align: right;
+    }
+
+    .titulos-seccion{
+        text-align: center;
+    }
+
+    .product-img{
+        max-height: 340px;
+    }
+
+    #listado-productos .titulo-pag{
+        font-size: 1.1em;
+        color: #999;
+    }
+
+    #bombers-coleccion .list-unstyled.multi-steps {
+        margin-bottom: 0;
+    }
+
+    .descuento-img{
+        font-weight: bold;
+        padding: 0 2px;
+        font-size: 0.8em;
+    }
+
+    .lupa-img-cont{
+        padding: 10px 10px 10px 0;
+        top: 15px;
+    }
+
+    .lupa-img{
+        max-width: 15px;
+    }
+
+    .bomber-info .main-price {
+        font-size: 1.2em;
+    }
+
+    .nombre-bomber s{
+        font-size: 0.9em;
+    }
+
+    .bomber-info .ahorro-span {
+        font-size: 0.7em;
+    }
+
+    .btn-sel-talla{
+        background-color: #d9d9d9;
+    }
+
+    .bloques-best{
+        padding: 0 5px;
+    }
+
+    .bomber-name{
+        font-size: 1.3em;
+    }
+
+    .bomber-price{
+        font-size: 1.3em;
+    }
+
+    #bloque-bombers-best .ahorro-bomber > span{
+        font-size: 0.8em;
+    }
+
+    #fotos-producto .foto img {
+        height: 230px;
+    }
+
+
+    #fotos-producto .youtube iframe, #carrusel-gato .youtube iframe {
+        height: 230px;
+        padding: 0 40px;
+    }
+
+    .visible-xs.visible-sm.icons-payment{
+        padding: 0;
+    }
+
+    .visible-xs.visible-sm.icons-payment img{
+        max-width: 33px;
+    }
+
+    #datos-producto .precio-producto, .info-extra .precio-producto {
+        font-size: 1.5em;
+    }
+
+    .fondo-gris{
+        background-color: #f1f1f1;
+    }
+
+    #valoracion-bomber{
+        padding-top: 0;
+    }
+
+    .txt-bg-prod{
+        margin: 10px 0;
+    }
+
+    .txt-bg-prod.fondo-gris{
+        margin: 0;
+        margin-bottom: 5px;
+    }
+
+    .txt-bg-prod .links-prod{
+        float: right;
+        text-align: right;
+    }
+
+    .bloque-cantidad.fondo-gris{
+        text-align: center;
+    }
+
+    .bloque-asistencia-cont{
+        margin-top: 10px;
+    }
+
+    .tallas-bloque .bloque-botones{
+        text-align: center;
+    }
+
+    .fondo-gris .btn-accion{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #form-agrega-carrito{
+        margin-top: -12px;
+    }
+
+    .bomber-name{
+        padding-top: 18px;
+    }
+
+    #cupon-btn-chk {
+        width: 100%;
+    }
+
+    .social-signin {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .field-pedidoform-clave .modal-radio{
+        background-color: white;
+    }
+
+    #metodos-pago .metodo-pago,
+    #metodos-pago .tarjeta,
+    #tienda-openpay,
+    #tarjeta-openpay,
+    .bloque-total{
+        background-color: #fff;
+    }
+
+    .checkout-block .bombers-compradas .foto-bomber {
+        max-width: 100px;
+    }
+
+    .bombers-compradas .foto-bomber {
+        width: 100%;
+    }
+
+    .eliminar-producto-check{
+        max-width: 10px;;
+    }
+
+    .titulos-seccion {
+        font-size: 20px;
+    }
+
+    #personalizacion-index #whatsapp,
+    #personalizacion-index #whatsapp-mobile,
+    #personalizacion-index #messenger{
+        display: none;
+    }
+
+    .cupon-cant {
+        font-size: 1.2em;
+    }
+
+    #cantidad-fotos {
+    background-color: rgba(6,6,6,0.5);
+    bottom: 10px;
+    left: 5%;
+    color: #fff;
+    display: inline-block;
+    font-family: 'Bebas Neue';
+    font-size: 13px;
+    padding: 3px 8px;
+    position: absolute;
+    height: 9%;
+    border-radius: 5px;
+    }
+
+    .total-imagenes {
+    font-weight: normal;
+}
+
+    .datos_personales{
+            top: 0;
+            right: 0;
+            position: initial;
+            overflow-y: initial;
+            width: 100%;
+        }
+
+    .datos_personales-altura-footer {
+        position: absolute;
+        top: auto;
+        bottom: 354px;
+        left: 0px;
+        max-height: 100%;
+        width: 100%;
+    }
+
+    .banner-top .img-banner {
+        padding: 0 5px;
+        max-width: 50px;
+    }
+
+    .banner-top {
+        font-size: 1.2em;
+        padding: 10px 0;
+    }
+
+    .banner-bottom .main-column-container > div:first-of-type {
+        padding-left: 15px;
+    }
+
+    .banner-bottom .main-column-container > div:last-of-type {
+        padding-right: 15px;
+    }
+
+    .datos_personales {
+        max-width: 100%;
+    }
+
+    .datos_personales {
+        max-height: unset;
+    }
+
+    #datos-producto {
+        margin-top: 30px;
+    }
+
+    .five-col-boot {
+        width: 50%;
+    }
+
+    .security-images {
+        margin: 0 10%;
+    }
+
+    .image-text-container {
+        margin-bottom: 15px;
+    }
+
+    .first-banner {
+        margin-bottom: 15px;
+    }
+
+    .info-section p{
+        text-align: justify;
+    }
+
+    #popup-extra-custom .request .img-block {
+        background-image: unset;
+    }
+
+    #bloque-opciones-login {
+        margin: 0 15px;
+    }
+
+    #email-continue-btn {
+        max-width: unset;
+    }
+    
+    #five-col-boot{
+        margin-left:0;
+    }
+}

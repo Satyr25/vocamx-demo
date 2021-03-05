@@ -1,0 +1,48 @@
+@media all and (max-width: 600px){
+    .fullscreen .bloques-carac .img-carac img, #features-assist .bloques-carac .img-carac img{
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .fullscreen .bloques-carac{
+        font-size: 0.75em;
+        width: 18%;
+    }
+
+    #detalles-trazos .img-carac img{
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .imagenes img, .imagenes.youtube iframe{
+        max-height: 240px;
+    }
+
+    #crea-la-tuya{
+        height: 140px;
+    }
+
+    .bloque-bombers-mobile .btn-accion{
+        width: 80%;
+        padding: 2px 0;
+    }
+
+    .span-meses{
+        font-size: 1.5em;
+    }
+
+    .bloque-sm .nuevo-img{
+        max-width: 40px;
+    }
+    .bloque-sm .precio{
+        font-size: 1.1em;
+    }
+
+    .info-section .info-button {
+        padding: 10px 10px;
+    }
+    
+    .home-main-hidden{
+        display: none;
+    }
+}

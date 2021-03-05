@@ -1,0 +1,85 @@
+@media all and (min-width: 500px) {
+    #boton-comprar{
+        width: 300px;
+    }
+
+    .foto-comunidad{
+        margin: 30px 1%;
+        width: 31%;
+    }
+
+    .slide .arrow{
+        display: block;
+    }
+
+    #texto-vocamx{
+        background-position: center;
+        background-size: 100% auto;
+        padding: 60px 0;
+    }
+
+    #texto-vocamx .container{
+        max-width: 500px;
+        width: 70%;
+    }
+
+    #imagotipo-slider{
+        max-width: 130px;
+    }
+
+    #slide-1 span{
+        font-size: 7.2em;
+    }
+
+    #slide-1 span.rojo{
+        font-size: 4em;
+    }
+
+    #slide-5 .texto-slide .coleccion{
+        font-size: 2.5em;
+        letter-spacing: .13em;
+    }
+
+    #slide-5 .texto-slide .disponible{
+        font-size: 7.5em;
+    }
+
+    #slide-5 .texto-slide {
+        padding-bottom: 20vh;
+    }
+
+    #legal{
+        display: block;
+        width: 100%;
+    }
+
+    #legal .legal{
+        border-right: 1px solid #333;
+        display: block;
+        float: left;
+        margin: 10px 0;
+        width: 50%;
+    }
+
+    #legal .legal:nth-child(even){
+        border: 0;
+    }
+
+    #slider-disenos{
+        width: 80%;
+    }
+
+    #slider-disenos .slick-prev{
+        left: -15px;
+    }
+
+    #slider-disenos .slick-next{
+        right: -15px;
+    }
+
+    #texto-personalizacion .container,
+    #exclusiva-precio{
+        font-size: 20px;
+        line-height: 1;
+    }
+}

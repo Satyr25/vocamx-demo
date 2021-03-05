@@ -1,0 +1,1592 @@
+@media all and (max-width: 992px){
+    #main-banners .banner::before,
+    #main-banners .banner::after,
+    .bloque-bombers-mobile .bloque-sm::before,
+    .bloque-bombers-mobile .bloque-sm::after{
+        border-style: none;
+    }
+
+    .bloque-sm{
+        background-color: #f0f0f0;
+    }
+
+    #hub-productos {
+        max-width: 1410px;
+        position: relative;
+        background-color: #f9f9f9;
+    }
+
+    #personalizacion .container {
+        height: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #bombers-index #boletin,
+    #bombers-index #legal,
+    #bombers-index #imagotipo,
+    #bombers-index #redes,
+    #bombers-index .footer{
+        display: none;
+    }
+
+    #bombers-index > .wrap{
+        background-color: #f9f9f9;
+    }
+
+    #personalizacion-index #boletin,
+    #personalizacion-index #legal,
+    #personalizacion-index #imagotipo,
+    #personalizacion-index #redes{
+        display: none;
+    }
+
+    .asesor-online{
+        font-family: Bebas Neue;
+        font-size: 26px;
+        color: #fff;
+        font-weight: normal;
+    }
+
+    #hidable-header-bar{
+        padding: 0;
+        background-color: #C10230;
+    }
+
+    #hidable-header-bar img {
+        max-height: 54px;
+        max-width: 21px;
+        margin-top: 4px;
+        margin-right: 10px;
+    }
+
+    #btn-comprar-custom{
+        width: 35%;
+        padding: 0;
+        position: absolute;
+        top: -30%;
+        transform: translateX(90%);
+    }
+
+    .col-md-9.col-sm-12.col-xs-12.productos-container {
+        margin-top: 61px;
+    }
+
+    .filtro-mobile {
+        position: fixed;
+        z-index: 2;
+        overflow-x: hidden;
+        width: 100%;
+        top: 107px;
+    }
+
+    #bloque-2 {
+        padding: none;
+        padding-left: none;
+        padding-right: none;
+        padding-top: none;
+    }
+
+    #lin-pasos{
+        display: none;
+    }
+
+    .fullscreen .bottom-block-fs > .row{
+        top: 75%;
+        transform: translateY(-75%);
+    }
+
+    .fullscreen .center-block-fs{
+        visibility: hidden;
+    }
+
+    #crea-la-tuya{
+        margin-bottom: 10px;
+        float: none;
+    }
+
+    .bloque-der,.bloque-izq{
+        visibility: hidden;
+    }
+
+    #resumen-compra-bloque{
+        position: inherit;
+        max-height: unset;
+        overflow-y: auto;
+        height: 100%;
+        margin-bottom: 30px;
+    }
+
+    #w0{
+        margin-top: 30px;
+    }
+
+    #detalles-trazos #w0{
+        margin-top: 10px;
+    }
+
+    .opciones-identidad #w0{
+        margin-top: 0;
+    }
+
+    #fotos-producto .slick-list{
+        margin: 0%;
+    }
+
+    .hidden-mobile{
+        display: none;
+    }
+
+    #entrega-block{
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    #menu a{
+        font-size: 1em;
+    }
+
+    .asistencia-ttl{
+        margin-right: 4%;
+    }
+
+    .img-whats{
+        margin-right: 4%;
+    }
+
+    .bloques-best{
+        width: 50%;
+        min-height: 250px;
+    }
+
+    .bloques-best:nth-child(3){
+        border-right: unset;
+    }
+
+    .images-best-section{
+        max-height: 150px;
+        margin-top: 15px;
+    }
+
+    .display-mobile{
+        display: initial;
+    }
+
+    #asistencia{
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .imagenes{
+        padding: 0;
+    }
+
+    .imagenes img, .imagenes.youtube iframe{
+        max-height: 370px;
+    }
+
+    #carrusel-gato .slick-dots button {
+        width: 5px;
+        height: 5px;
+    }
+
+    #pasos-trazos > .container{
+        padding: 0 15px;
+    }
+
+    #fotos-producto .slick-dots button, #carrusel-gato .slick-dots button{
+        background-color: #f1f1f1;
+        border: 0 !important;
+        margin: 0 2px;
+    }
+
+    .img-paso{
+        width: 100%;
+    }
+
+    #pasos-trazos .container{
+        padding: 0;
+    }
+
+    #bloques-img-trazos .col-md-4 {
+        padding: 0 2.5px;
+    }
+
+    #bloques-img-trazos .col-md-4:first-child {
+        padding-left: 0;
+    }
+
+    #bloques-img-trazos .col-md-4:last-child {
+        padding-right: 0;
+    }
+
+    #titulo-trazos .titulo-seccion-pasos{
+        font-size: 1em;
+    }
+
+    .titulo-seccion-pasos {
+        font-size: 1.4em;
+    }
+
+    #detalles-trazos > .col-md-6:first-child,
+    #detalles-trazos{
+        padding: 0px 17px 0px 6px;
+    }
+
+    #sube-foto, #info-foto-bloque {
+        padding: 0 15px;
+    }
+
+    #pasos-trazos {
+        bottom: 0;
+        padding: 0px;
+        margin-bottom: 0;
+    }
+
+    #main-banners .banner{
+        margin-bottom: 10px;
+    }
+
+    .banner .nuevo-img{
+        top: 1%;
+    }
+
+    #bombers-index .container-fluid.linea-pasos{
+        margin-bottom: 0;
+    }
+
+    #hidable-header-bar #meses-block{
+        text-align: center;
+    }
+
+    .subtotal-precios{
+        text-align: right;
+    }
+
+    .titulos-seccion{
+        text-align: center;
+    }
+
+    .product-img{
+        max-height: 340px;
+    }
+
+    #listado-productos .titulo-pag{
+        font-size: 1.1em;
+        color: #999;
+    }
+
+    #bombers-coleccion .list-unstyled.multi-steps {
+        margin-bottom: 0;
+    }
+
+    .descuento-img{
+        font-weight: bold;
+        padding: 0 2px;
+        font-size: 0.8em;
+    }
+
+    .lupa-img-cont{
+        padding: 10px 10px 10px 0;
+        top: 15px;
+    }
+
+    .lupa-img{
+        max-width: 15px;
+    }
+
+    .bomber-info .main-price {
+        font-size: 1.2em;
+    }
+
+    .nombre-bomber s{
+        font-size: 0.9em;
+    }
+
+    .bomber-info .ahorro-span {
+        font-size: 0.7em;
+    }
+
+    .btn-sel-talla{
+        background-color: #d9d9d9;
+    }
+
+    .bloques-best{
+        padding: 0 5px;
+    }
+
+    .bomber-name{
+        font-size: 1.3em;
+    }
+
+    .bomber-price{
+        font-size: 1.3em;
+    }
+
+    #bloque-bombers-best .ahorro-bomber > span{
+        font-size: 0.8em;
+    }
+
+    #fotos-producto .foto img {
+        height: 230px;
+    }
+
+
+    #fotos-producto .youtube iframe, #carrusel-gato .youtube iframe {
+        height: 230px;
+        padding: 0 40px;
+    }
+
+    .visible-xs.visible-sm.icons-payment{
+        padding: 0;
+    }
+
+    .visible-xs.visible-sm.icons-payment img{
+        max-width: 33px;
+    }
+
+    #datos-producto .precio-producto, .info-extra .precio-producto {
+        font-size: 1.5em;
+    }
+
+    .fondo-gris{
+        background-color: #f1f1f1;
+    }
+
+    #valoracion-bomber{
+        padding-top: 0;
+    }
+
+    .txt-bg-prod{
+        margin: 10px 0;
+    }
+
+    .txt-bg-prod.fondo-gris{
+        margin: 0;
+        margin-bottom: 5px;
+    }
+
+    .txt-bg-prod .links-prod{
+        float: right;
+        text-align: right;
+    }
+
+    .bloque-cantidad.fondo-gris{
+        text-align: center;
+    }
+
+    .bloque-asistencia-cont{
+        margin-top: 10px;
+    }
+
+    .tallas-bloque .bloque-botones{
+        text-align: center;
+    }
+
+    .fondo-gris .btn-accion{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #form-agrega-carrito{
+        margin-top: -12px;
+    }
+
+    .bomber-name{
+        padding-top: 18px;
+    }
+
+    #cupon-btn-chk {
+        width: 100%;
+    }
+
+    .social-signin {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .field-pedidoform-clave .modal-radio{
+        background-color: white;
+    }
+
+    #metodos-pago .metodo-pago,
+    #metodos-pago .tarjeta,
+    #tienda-openpay,
+    #tarjeta-openpay,
+    .bloque-total{
+        background-color: #fff;
+    }
+
+    .checkout-block .bombers-compradas .foto-bomber {
+        max-width: 100px;
+    }
+
+    .bombers-compradas .foto-bomber {
+        width: 100%;
+    }
+
+    .eliminar-producto-check{
+        max-width: 10px;;
+    }
+
+    .titulos-seccion {
+        font-size: 20px;
+    }
+
+    #personalizacion-index #whatsapp,
+    #personalizacion-index #whatsapp-mobile,
+    #personalizacion-index #messenger{
+        display: none;
+    }
+
+    .cupon-cant {
+        font-size: 1.2em;
+    }
+
+    #cantidad-fotos {
+    background-color: rgba(6,6,6,0.5);
+    bottom: 10px;
+    left: 5%;
+    color: #fff;
+    display: inline-block;
+    font-family: 'Bebas Neue';
+    font-size: 13px;
+    padding: 3px 8px;
+    position: absolute;
+    height: 9%;
+    border-radius: 5px;
+    }
+
+    .total-imagenes {
+    font-weight: normal;
+}
+
+    .datos_personales{
+            top: 0;
+            right: 0;
+            position: initial;
+            overflow-y: initial;
+            width: 100%;
+        }
+
+    .datos_personales-altura-footer {
+        position: absolute;
+        top: auto;
+        bottom: 354px;
+        left: 0px;
+        max-height: 100%;
+        width: 100%;
+    }
+
+    .banner-top .img-banner {
+        padding: 0 5px;
+        max-width: 50px;
+    }
+
+    .banner-top {
+        font-size: 1.2em;
+        padding: 10px 0;
+    }
+
+    .banner-bottom .main-column-container > div:first-of-type {
+        padding-left: 15px;
+    }
+
+    .banner-bottom .main-column-container > div:last-of-type {
+        padding-right: 15px;
+    }
+
+    .datos_personales {
+        max-width: 100%;
+    }
+
+    .datos_personales {
+        max-height: unset;
+    }
+
+    #datos-producto {
+        margin-top: 30px;
+    }
+
+    .five-col-boot {
+        width: 50%;
+    }
+
+    .security-images {
+        margin: 0 10%;
+    }
+
+    .first-banner {
+        margin-bottom: 15px;
+/*        height: 250px;*/
+    }
+
+    .info-section p{
+        text-align: justify;
+    }
+
+    #popup-extra-custom .request .img-block {
+        background-image: unset;
+    }
+
+    #bloque-opciones-login {
+        margin: 0 15px;
+    }
+
+    #email-continue-btn {
+        max-width: unset;
+    }
+
+    #five-col-boot{
+        margin-left:0;
+    }
+    #interior2-hope-head img{
+        max-height: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .hope-tarjeta{
+        text-align: center;
+    }
+    .warranty-info{
+        display: none;
+    }
+    .warranty-info2{
+        display: block;
+    }
+    #banner-desk{
+        display: none;
+    }
+    #banner-movil{
+        display: block;
+    }
+
+    .logo-voca, .aguila-img{
+        display:none;
+    }
+    .home-main-hidden{
+        display: none;
+    }
+    .home-container-row{
+        max-width: 600px;
+    }
+    .home-image-text{
+        margin-bottom: 10px;
+    }
+    .home-contenido-row{
+        bottom: 20px;
+    }
+    #home-index #section-row-text{
+        margin-bottom: 0;
+    }
+
+    #pasos-escritorio{
+        display: none;
+    }
+
+    #movil-section-home{
+        display: block;
+    }
+    #desk-section-home{
+        display: none;
+    }
+    
+    .float-foot{
+        display: none;
+    }
+
+    /*Mobile-altapersonalizacion*/
+        .franja-crea {
+           background-color: #000;
+           font-family: 'bebas Neue';
+           text-transform: uppercase;
+           border: 1px solid #fff;
+           color: #fff;
+           font-size: 18px;
+           border-left: 7px solid #fff;
+           border-right: 7px solid #fff;
+           height: 27px;
+           padding-left: 100px;
+           padding-right: 112px;
+           padding-top: 1px;
+       }
+
+       .imagen-diamante {
+           height: 80%;
+           width: auto;
+       }
+
+       #alta-personalizacion {
+           height: auto;
+       }
+
+       #alta-personalizacion #texto-personalizacion{
+           display: block;
+       }
+
+       .bloque-crea {
+           background-color: #e3e3e3;
+           border-left: 7px solid #FFF;
+           border-right: 7px solid #fff;
+           padding-right: 16px;
+       }
+
+        .textos-personalizacion {
+               padding-left: 15px;
+               padding-right: 15px;
+           }
+
+           #slider-personalizacion {
+               padding-left: 15px;
+               padding-right: 16px;
+           }
+
+       #texto-piensa{
+           padding-top: 5px;
+           color: #000;
+           /* background-image: url('../images/alta_personalizacion/fotobloque1.jpg'); */
+           background-repeat: no-repeat;
+           background-size: auto 70%;
+           background-position: right;
+       }
+       .texto-gustaria {
+           font-size: 26px;
+           font-family: Bebas Neue;
+           line-height: 19px;
+       }
+
+
+       .texto-ilustramos {
+           font-family: Bebas Neue;
+           font-size: 17px;
+       }
+
+       .texto-recibe {
+           font-family: Bebas Neue;
+           font-size: 15px;
+       }
+
+       .img-marca {
+           width: 30%;
+           height: auto;
+       }
+       .bloque-crea-mobile {
+           padding: 4px;
+       }
+
+       .bloque-ayuda{
+           text-align: center;
+           padding-left: 4%;
+           padding-right: 10px;
+       }
+
+       .imagen-chica2 {
+           width: 100%;
+           height: auto;
+       }
+
+
+       .bloque-dudas {
+          padding-top: 25px;
+       }
+
+       span.texto-dudas {
+           font-size: 18px;
+           font-family: Bebas Neue;
+       }
+
+       .btn-ayuda-alta{
+           position: absolute;
+           top: 0;
+           left: 50%;
+           transform: translateX(-50%);
+           width: 51%;
+           text-align: center;
+           text-transform: uppercase;
+           background-color: #transparent;
+           font-size: 1.5em;
+           font-family: 'Bebas Neue';
+           height: 31px;
+           border: 1px solid #000;
+       }
+
+       a.btn-ayuda-alta.hidden-lg.hidden-md {
+           color: #000;
+       }
+
+       .franja-creanosotros {
+       background-color: #fff;
+       font-family: 'bebas Neue';
+       text-transform: uppercase;
+       border: 1px solid #fff;
+       color: #000;
+       font-size: 23px;
+       height: 23px;
+       padding-top: 1px;
+       }
+
+
+       .bloque-ilustracion {
+           border-left: 7px solid #FFF;
+           border-right: 7px solid #fff;
+       }
+
+       .img-creanosotros {
+           width: 100%;
+           height: auto;
+           position: relative;
+       }
+
+       .col-sm-6.col-xs-6.text-left.bloque-ilustracion-texto {
+           text-align: center;
+           font-family: Bebas Neue;
+           color: #000
+       }
+
+       .img-logotipovoca {
+           width: 29%;
+           height: auto;
+           padding: 10px;
+       }
+
+       #texto-ilustra{
+           font-size: 15px;
+           line-height: 14px;
+           font-weight: normal;
+       }
+
+       #texto-guia {
+           font-size: 15px;
+           line-height: 14px;
+           padding: 7px;
+           font-weight: normal;
+       }
+
+       #texto-dinos {
+           font-size: 15px;
+           font-weight: normal;
+       }
+
+       #texto-listo {
+           font-size: 15px;
+           line-height: 14px;
+           font-weight: normal;
+       }
+
+       .bloque-paquete {
+           padding-left: 1px;
+           padding-right: 1px;
+           border-right: 21px solid #fff;
+           border-left: 21px solid #fff;
+       }
+
+       .bloque-paquete-mobile {
+           background-color: #e3e3e3;
+       }
+
+       .titulo-paquete {
+       font-family: 'bebas Neue';
+       text-transform: uppercase;
+       font-size: 18px;
+       height: 23px;
+       color: #000;
+       }
+
+       #texto-incluye label{
+           font-weight: normal;
+       }
+
+
+
+       #texto-incluye{
+           font-size: 13px;
+           font-family: bebas Neue;
+           line-height: 6px;
+           padding-top: 11px;
+           padding-right: 0;
+           padding-left: 0;
+           color: #000;
+       }
+
+       label.texto-asistencia {
+       font-size: 12.5px;
+       }
+
+       #texto-ahorro label{
+           font-weight: normal;
+       }
+       #texto-ahorro{
+           font-size: 18px;
+           font-family: bebas Neue;
+           line-height: 11px;
+           padding-top: 6px;
+           padding-left: 0;
+           padding-right: 0;
+       }
+
+       .col-sm-2.col-xs-2.text-center.bloque-paquete-texto {
+           padding-left: 0;
+           padding-right: 0;
+       }
+
+       #texto-gratis label{
+           font-weight: normal;
+       }
+
+       .texto-gratis{
+           color: #C10230;
+           font-family: bebas Neue;
+           font-size: 21px;
+           text-align: center;
+       }
+
+       #texto-personalizado label{
+           font-weight: normal;
+       }
+
+
+       #texto-personalizado{
+           font-size: 11px;
+           font-family: bebas Neue;
+           line-height: 10px;
+           padding-top: 5px;
+           color: #C10230;
+           padding-left: 0;
+           padding-right: 3px;
+       }
+
+       #personalizado{
+           line-height: 0;
+       }
+       .imagen-granventa {
+           width: 80%;
+           height: auto;
+           margin-top: 11px;
+       }
+
+       .imagen-introduccion {
+           width: 115%;
+           height: auto;
+       }
+
+       #texto-gratis {
+           padding-top: 20px;
+           padding-right: 0;
+           padding-left: 0;
+           color: #000;
+       }
+
+       .envio-gratis {
+           font-family: Bebas Neue;
+           font-size: 27px;
+           font-weight: normal;
+       }
+
+       .envio-gratis1 {
+           font-family: Bebas Neue;
+           font-size: 43px;
+           line-height: 22px;
+           font-weight: normal;
+       }
+
+       .imagen-maximo {
+           width: 100%;
+           height: auto;
+           padding: 2px 0 3px 0;
+       }
+
+       .texto-maximo {
+           font-family: Bebas Neue;
+           font-size: 26px;
+           color: #000;
+       }
+
+       .texto-producto {
+           font-family: Bebas Neue;
+           font-size: 22px;
+           line-height: 4px;
+           color: #C10230;
+       }
+
+       .texto-limitado {
+           font-family: Bebas Neue;
+           font-size: 22px;
+           line-height: 4px;
+           color: #C10230;
+       }
+
+
+       .texto-elige{
+           font-family: Bebas Neue;
+           font-size: 30px;
+           color: #000;
+       }
+
+       .titulo-metalico.text-center {
+           background-image: url('../images/alta_personalizacion/metalico/plecaMetalico.jpg');
+           background-size: 100%;
+           font-family: Bebas Neue;
+           font-size: 17px;
+           border-right: 16px solid #fff;
+           border-left: 16px solid #fff;
+           color: #000;
+       }
+
+
+       .bloque-metalico-mobile.row {
+           background-image: url('../images/alta_personalizacion/metalico/fondo.jpg');
+           background-size: 100%;
+           background-repeat: no-repeat;
+           padding-top: 16px;
+           border-left: 30px solid #fff;
+           border-right: 30px solid #fff;
+           padding: 12px;
+           padding-right: 0;
+           padding-left: 0;
+           color: #000;
+       }
+
+       .imagen-metalico{
+           width: 117%;
+           height: auto;
+       }
+
+       .texto-sudadera{
+           font-size: 15px;
+           font-family: Bebas Neue;
+           color: #000;
+           padding-left: 15px;
+       }
+
+
+       .titulo-terciopelo.text-center {
+           background-image: url('../images/alta_personalizacion/terciopelo/plecaTerciopelo.jpg');
+           background-size: 100%;
+           font-family: Bebas Neue;
+           font-size: 17px;
+           border-right: 16px solid #fff;
+           border-left: 16px solid #fff;
+           border-top: 4px solid #fff;
+           color: #000;
+       }
+
+
+       .bloque-terciopelo-mobile.row {
+           background-image: url('../images/alta_personalizacion/terciopelo/fondoTerciopelo.jpg');
+           background-size: 100%;
+           background-repeat: no-repeat;
+           padding-top: 16px;
+           border-left: 30px solid #fff;
+           border-right: 30px solid #fff;
+           padding: 12px;
+           padding-left: 0;
+           padding-right: 0;
+       }
+
+       .imagen-terciopelo{
+           width: 117%;
+           height: auto;
+       }
+
+       .texto-sudadera2{
+           font-size: 15px;
+           font-family: Bebas Neue;
+           color: #000;
+           padding-left: 15px;
+       }
+
+       .bloque-fluor-mobile.row {
+           border-right: 16px solid #fff;
+           border-left: 16px solid #fff;
+           border-top: 4px solid #fff;
+       }
+
+       .imagen-fluor{
+           width: 100%;
+           height: auto;
+       }
+
+       .col-sm-3.col-xs-3.text-center.metalico {
+           padding-left: 2px;
+           padding-right: 14px;
+       }
+
+       .col-sm-3.col-xs-3.text-center.terciopelo {
+           padding-left: 2px;
+           padding-right: 14px;
+       }
+
+       .texto-diseños{
+           font-family: Bebas Neue;
+           font-size: 30px;
+           color: #000;
+       }
+
+       .franja-importante1{
+       background-color: #fff;
+       padding-top: 1px;
+       font-family: 'Bebas Neue';
+       text-transform: uppercase;
+       border: 1px solid #fff;
+       color: #000;
+       font-size: 24px;
+       }
+       .franja-ayudasiguiente1{
+       background-color: #fff;
+       font-family: 'Bebas Neue';
+       text-transform: uppercase;
+       border: 1px solid #fff;
+       color: #999;
+       font-weight: bold;
+       font-size: 16px;
+       letter-spacing: -1px;
+       }
+
+
+       .bloque-ayuda2-mobile.row {
+           padding-left: 20px;
+           padding-right: 10px;
+       }
+
+
+       .imagen-ayuda2{
+       width: 80%;
+       height: auto;
+       padding-top: 10px;
+
+       }
+
+       .texto-clara{
+       font-size: 10px;
+       color: #999;
+       font-family: Bebas Neue;
+       line-height: 11px;
+       padding: 5px;
+       padding-left: 15px;
+       }
+
+       .texto-comunicar{
+       font-size: 10px;
+       color: #999;
+       font-family: Bebas Neue;
+       line-height: 11px;
+       padding: 5px;
+       padding-left: 5px;
+       }
+
+
+       .texto-derechos1{
+       font-size: 10px;
+       color: #999;
+       font-family: Bebas Neue;
+       line-height: 12px;
+       padding: 7px;
+       padding-right: 20px;
+
+       }
+
+       .imagen-clara{
+           width: 66%;
+           height: auto;
+           padding-top: 10px;
+
+       }
+
+       .franja-conoce1{
+       background-color: #fff;
+       padding-top: 1px;
+       font-family: 'Bebas Neue';
+       text-transform: uppercase;
+       border: 1px solid #fff;
+       color: #000;
+       font-size: 23px;
+       }
+
+       iframe.video-youtube-proceso1 {
+           height: 291px;
+           width: 320px;
+       }
+
+       .bloque-gris-alta{
+           background-color: #f1f1f1;
+           line-height: 1;
+       }
+
+       .bloque-gris2-alta{
+           background-color: #f1f1f1;
+           line-height: 1;
+           border: 2px solid #fff;
+           border-right: 0px;
+           border-left: 0px;
+       }
+
+       .btn-ayuda-altapersonalizacion{
+           position: absolute;
+           top: 0;
+           left: 50%;
+           transform: translateX(-50%);
+           color: #fff;
+           width: 155px;
+           text-align: center;
+           text-transform: uppercase;
+           font-weight: bold;
+           background-color: #c10230;
+           font-size: 1.3em;
+           font-family: 'Bebas Neue';
+           border-radius: 1px 1px 10px 10px;
+           height: 27px;
+       }
+
+       .btn-ayuda-altapersonalizacion img{
+       display: inline-block;
+       max-width: 22px;
+       }
+
+       .franja-ayuda-altapersonalizacion{
+       background-color: #transparent;
+       font-family: 'karla';
+       text-transform: uppercase;
+       color: #c10230;
+       font-weight: bold;
+       font-size: 13 px;
+       padding: 29px;
+       padding-bottom: 5px;
+       }
+
+       .franja-comenzar-alta {
+           background-color: #fff;
+           padding-top: 1px;
+           font-family: 'Bebas Neue';
+           text-transform: uppercase;
+           border: 1px solid #fff;
+           color: #000;
+           font-size: 26px;
+       }
+
+       #sube-foto-bloque-alta .bloque-asistencia.hidden-mobile{
+           margin-top: 70px;
+       }
+
+       #sube-foto-alta, #info-foto-bloque-alta{
+           padding: 0 25px;
+       }
+
+       #sube-foto-btn-alta{
+           font-size: 1.2em;
+           border: 2px solid #999;
+           background-color: transparent;
+           color: #999;
+           width: 167px;
+
+       }
+
+       .imagen-subir-alta{
+           max-width: 45px;
+           max-height: 45px;
+           padding-top: 4px;
+           padding-left: 5px;
+       }
+
+       #paso2-alta {
+           margin-bottom: -18px;
+           padding: 0px 0 5px 0px;
+       }
+
+       .textos-personaliza-alta input {
+       display: block;
+       float: left;
+       margin: 5px 1%;
+       text-align: center;
+        width: 88%;
+       color: #999;
+       height: 25%;
+       border: 0;
+       font-size: 15px;
+       font-family: bebas Neue;
+       }
+
+       .personaliza-img-alta {
+           max-width: 30px;
+           max-height: 45px;
+           padding-top: 7px;
+           padding-left: 5px;
+       }
+
+
+       #producto-nuevo-alta{
+       width: 40%;
+       float: left;
+       font-size: 14px;
+       font-family: Bebas Neue;
+       padding-left: 30px;
+
+       }
+       #menu-checkbox{
+           padding-top: 10px;
+       }
+
+       .producto-nuevotitulo-alta{
+           font-family: Bebas Neue;
+           font-size: 24px;
+           }
+
+       #producto-nuevo-alta label{
+       font-weight: normal;
+
+       }
+
+       #numero-elementos-alta{
+           width: 26%;
+           float: left;
+           font-size: 19px;
+           text-align: center;
+       }
+
+
+       #precio-trazado-alta{
+           width: 33%;
+           float: right;
+           font-size: 16px;
+           padding-right: 10px;
+
+       }
+       #precio-trazado-alta.ahorro-bomber-alta{
+           padding: 2px 1px;
+       }
+
+       #precio-trazado-alta .ahorro-bomber-alta > span{
+           font-size: 10px;
+       }
+
+       #precio-trazado-alta .control-label{
+           margin-bottom: 0;
+           font-size: 17px;
+       }
+
+       #precio-trazado-alta .help-block{
+           margin-bottom: 0;
+       }
+
+       #texto-precio-alta{
+           font-family: 'Bebas Neue';
+           font-size: 18px;
+       }
+
+
+       div#elementos-precio-alta {
+           padding-left: 1px;
+           padding-right: 12px;
+       }
+
+       #texto-precio-alta .precio-producto-chico-alta{
+           font-size: 12px;
+           font-family: 'Bebas Neue';
+       }
+
+       .precio-producto-chico-alta{
+           color: #c10230;
+            font-size: 0.7em;
+       }
+
+       .ahorro-bomber-alta > span{
+           font-family: 'Karla';
+           color: #333;
+           font-size: 0.6em;
+           font-weight: bold;
+       }
+
+       .ahorro-bomber .title{
+           text-transform: uppercase;
+       }
+
+       .ahorro-bomber-alta{
+           line-height: 2px;
+           margin-bottom: 2px;
+           font-size: 10px;
+               padding-top: 4px;
+       }
+
+       .dia-entrega-alta{
+       font-size: 16px;
+       color: #c10230;
+       font-family: bebas Neue;
+       padding-top: 13px;
+       }
+
+       .imagen-carrito-entrega-alta{
+       width: 23%;
+       }
+
+       #btn-siguiente-alta
+       {
+       color: #fff;
+       background-color: #000;
+       width: 142px;
+       margin-bottom: 10px;
+       }
+
+       .palomita-img-alta{
+       width: 11%;
+       height: auto;
+       }
+
+       .palomita{
+       width: 9%;
+       height: auto;
+       }
+
+
+
+       .texto-diseño{
+           font-family: Bebas Neue;
+           font-size: 26px;
+           color: #000;
+       }
+
+       .imagen-ritual{
+           width: 88%;
+           height: auto;
+           padding: 2px 0 3px 0;
+       }
+
+       .texto-instagram{
+           font-family: Bebas Neue;
+           font-size: 20px;
+           color: #000;
+       }
+
+       p.texto-inspi1 {
+           text-align: center;
+           margin: 0;
+       }
+
+       label.texto-inspirado1 {
+           font-weight: normal;
+           margin-bottom: 0;
+       }
+       .texto-inspirado1{
+           font-family: Bebas Neue;
+           font-size: 16px;
+           color: #000;
+
+       }
+
+       p.texto-inspi2 {
+           text-align: center;
+       }
+
+       label.texto-inspirado2 {
+           font-weight: normal;
+           margin-bottom: 0;
+           line-height: 11px;
+       }
+       .texto-inspirado2{
+           font-family: Bebas Neue;
+           font-size: 14px;
+           color: #666;
+           text-align: center;
+       }
+
+       .texto-diseños-exclusivos {
+           line-height: 11px;
+           padding: 8px;
+       }
+
+       .texto-diseños-exclusivos {
+         font-weight: normal;
+       }
+
+       #customphotoform-menu {
+           font-size: 13px;
+           font-family: Bebas Neue;
+       }
+
+       #customphotoform-menu label{
+           font-weight: normal;
+           padding-left: 14px;
+       }
+
+       input[type="checkbox"] {
+           width: 14px;
+           height: 14px;
+       }
+
+
+       .textos-personaliza-alta textarea{
+           display: block;
+           float: left;
+           margin: 5px 1%;
+           text-align: center;
+            width: 88%;
+           color: #999;
+           height: 25%;
+           border: 0;
+           font-size: 18px;
+           font-family: bebas Neue;
+           line-height: 16px;
+       }
+
+       .bloque-incluido-mobile.row {
+           padding-left: 19px;
+           padding-right: 0;
+           padding-top: 0;
+       }
+
+       .col-sm-2.col-xs-2.text-center.incluido {
+           padding-left: 0;
+           padding-right: 0;
+       }
+
+       span.texto-incluido {
+           font-size: 13px;
+           display: block;
+           color: #c10230;
+           font-family: Bebas Neue;
+           padding-left: 0;
+       }
+
+
+       span#numero-precio-alta {
+           text-align: center;
+           padding-left: 27px;
+       }
+
+       .form-group.field-customphotoform-color {
+           padding-left: 100px;
+           padding-top: 10px;
+       }
+
+       #customphotoform-color {
+           text-align: center;
+           width: 65%;
+           color: #999;
+           height: 8%;
+           border: 0;
+           font-size: 15px;
+           display: inline-block;
+       }
+
+       .text-color {
+           color: #999;
+           font-size: 16px;
+           padding: 13px;
+       }
+
+       .textos-color label
+       {
+           font-family: Bebas Neue;
+           font-size: 17px;
+       }
+
+
+       .imagen-carrousel-rk{
+           width: 100%;
+           height: 230px;
+           padding: 0px 0px 0px 0px;
+
+       }
+
+
+       .container-fluid.imagenes-rk{
+           padding-right: 15px;
+           padding-left: 15px;
+           margin-right: auto;
+           margin-left: auto;
+       }
+       .container.imagenenes-rk {
+           padding-right: 0;
+           padding-left: 0;
+           margin-right: auto;
+           margin-left: auto;
+       }
+
+       .texto-fondo-rk{
+           padding-left: 2px;
+           padding-right: 2px;
+           color: #fff;
+           width: 100%;
+           min-height: 70px;
+
+       }
+
+       #carrusel-rk .slick-slide {
+           box-shadow: 0px 0px 3px 3px #f1f1f1;
+           padding-left: 10px;
+           padding-right: 10px;
+       }
+
+       #bombers-personalizacion #w0{
+           margin-top: 0;
+       }
+
+       #carrusel-rk .slick-list.draggable {
+           padding-bottom: 10px !important;
+       }
+
+
+       .textos-menu-alta {
+           font-family: Bebas Neue;
+           font-size: 17px;
+           padding-left: 4px;
+       }
+
+       .textos-menu-alta label{
+           font-weight: normal;
+           padding: 3px;
+       }
+
+       .producto-img-wrapper .product-img{
+           min-height: 210px;
+       }
+
+       #tabla-tallas-container .medidas-full{
+           display: block;
+           margin: 0 auto;
+           max-width: 500px;
+           width: 90%;
+       }
+
+       #popup-checkout{
+           padding-bottom: 0;
+           max-width: 860px;
+           position: relative;
+       }
+
+       #checkout-wrapper{
+           position: relative;
+       }
+
+       #checkout-wrapper img{
+           width: 100%;
+       }
+
+       #checkout-index .multi-steps {
+           display: table;
+           table-layout: fixed;
+           width: 100%;
+           margin-left: 0;
+       }
+
+       #checkout-index .multi-steps > li {
+           counter-increment: stepNum;
+           text-align: center;
+           display: table-cell;
+           position: relative;
+           color: #c10230;
+           font-size: 0.8em;
+       }
+    .mfp-close-btn-in .mfp-close{
+        display: none;
+    }
+    #popup-extra-custom .add-custom-button.add{
+        width: 120px;
+    }
+    #popup-extra-custom .add-buttons-wrapper{
+        margin-top: 82px;
+        position: inherit;
+        right: 0;
+        bottom: 0;
+        width: auto;
+    }
+}

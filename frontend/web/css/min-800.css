@@ -1,0 +1,77 @@
+@media all and (min-width: 800px) {
+    #boton-comprar{
+        margin-top: 100px;
+    }
+
+    #contenido-footer{
+        display: table;
+        max-width: 1400px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #redes > div{
+        border: 0;
+    }
+
+    #redes h2{
+        font-size: 1.5em;
+    }
+
+    #contenido-footer #redes,
+    #contenido-footer #boletin,
+    #contenido-footer #imagotipo{
+        display: table-cell;
+        vertical-align: middle;
+        width: 33.333333%
+    }
+
+    #correo-boletin{
+        float: left;
+        width: 72%;
+    }
+
+    #registrar-boletin{
+        float: right;
+        font-size: 1.2em;
+        margin: 0;
+        padding: 3px 0;
+        width: 27%;
+    }
+
+    #descripcion-vocamx,
+    #accesorios-urbanos{
+        height: 600px;
+    }
+
+    #descripcion-vocamx #bloque-vocamx,
+    #accesorios-urbanos #bloque-accesorios{
+        left: 10%;
+        width: 80%;
+    }
+
+    #accesorios-urbanos #bloque-accesorios{
+        height: 70%;
+        top: 15%;
+    }
+
+    #bloque-accesorios h2{
+        margin-top: -55px;
+    }
+
+    .encabezado-pagina {
+        height: 320px;
+    }
+
+    #texto-vocamx .container > div{
+        font-size: 1.8em;
+    }
+
+    #datos-contacto .container{
+        background-size: 50% auto;
+    }
+
+    #login-prensa{
+        background-size: cover;
+    }
+}

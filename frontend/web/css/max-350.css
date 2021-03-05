@@ -1,0 +1,27 @@
+@media all and (max-width: 320px){
+    .btn-circular-rojo{
+        font-size: 1em;
+    }
+
+    #crea-la-tuya .boton-bloque p {
+        font-size: 0.7em;
+    }
+
+    .producto-img-wrapper .product-img{
+        min-height: 110px;
+    }
+    
+    #hopebox-body2 .parrafo {
+        height: 120px;
+    }
+    #boton-pago-popup{
+        font-family: 'Bebas Neue';
+        position: absolute;
+        background-color: red;
+        top: 34%;
+        right: 36%;
+        padding: 6px 18px;
+        border-radius: 30px;
+        font-size: 12px;
+    }
+}

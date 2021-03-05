@@ -1,0 +1,100 @@
+@media all and (min-width: 1200px) {
+    .container{
+        width: 80%;
+    }
+
+    .foto-comunidad{
+        margin: 30px 1%;
+        width: 18%;
+    }
+
+    #puntos-mexa{
+        background-size: auto 100%;
+    }
+
+    #datos-contacto .container{
+        background-size: 30% auto;
+    }
+
+    .encabezado-pagina {
+        height: 70vh;
+    }
+
+    #datos-contacto .container{
+        background-size: 55% auto;
+    }
+
+    #accesorios-urbanos #bloque-accesorios{
+        background-size: cover;
+    }
+
+    #bloque-accesorios p{
+        font-size: 1.5em;
+        line-height: 1em;
+        text-align: center;
+    }
+
+    #ultra-mexa .container {
+        font-size: 10em;
+    }
+
+    #texto-comunidad .container{
+        font-size: 1.5em;
+        width: 70%;
+    }
+
+    #slide-4 .texto-slide .movimiento{
+        font-size: 7.5em;
+        letter-spacing: .08em;
+    }
+
+    #slide-4 .texto-slide .frases{
+        font-size: 4.4em;
+    }
+
+    #slide-4 .texto-slide .crear,
+    #slide-4 .texto-slide .juntos{
+        font-size: 7em;
+    }
+
+    #slide-5 .texto-slide .coleccion{
+        font-size: 3.5em;
+    }
+
+    #slide-5 .texto-slide .disponible{
+        font-size: 11em;
+    }
+
+    #bloque-vocamx p{
+        font-size: 1.5em;
+    }
+
+    #piedra-azteca{
+        font-size: 1.3em;
+    }
+
+    #piedra-azteca div{
+        font-size: 1em;
+    }
+
+    .descripcion-punto div:last-of-type{
+        font-size: 1.3em;
+    }
+
+    #alta-personalizacion{
+        background-size: cover;
+    }
+
+    #fotos-producto .video-vocamx{
+        margin-top: 0%;
+    }
+
+    #thumb-fotos{
+        display: block;
+        top: 10px;
+        z-index: 10;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}

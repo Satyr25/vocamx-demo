@@ -1,0 +1,98 @@
+@media all and (max-width: 770px){
+    #protegida-block{
+        margin-bottom: 20px;
+    }
+
+    .icons-payment{
+        text-align: left;
+    }
+
+    .bloque-cupon-copy{
+        position: relative;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .cupon-expl{
+        text-align: center;
+        padding-left: 0;
+    }
+
+    #bloque-cupon-img{
+        text-align: center;
+    }
+
+    .title-cupon{
+        margin: 20px 0;
+    }
+
+    #banners-pasos{
+        background-color: #f0f0f0;
+        margin-bottom: 0;
+    }
+
+    #banners-pasos .banner{
+        padding: 0 5px;
+    }
+
+    #banners-pasos .banner .imagen-paso img{
+        height: 50px;
+        width: auto;
+    }
+
+    #banners-pasos .numero-paso{
+        display: block;
+        margin: 10px auto;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        line-height: 26px;
+    }
+
+    #banners-pasos .nombre-paso{
+        font-size: 20px;
+        line-height: 20px;
+        padding-bottom: 10px;
+    }
+
+    .funciona-title{
+        font-size: 24px;
+    }
+
+    .ver-warning-container{
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .bloque-ver-warning{
+        margin-bottom: 10px;
+        margin-left: 0;
+        padding: 10px;
+    }
+
+    #cantidad-row{
+        text-align: center;
+    }
+
+    #protegida-block{
+        margin-top: 10px;
+    }
+
+    .green-text{
+        font-size: 1em;
+    }
+
+    .product-img{
+        max-height: 200px;
+    }
+
+    .custom-social-proof {
+        left: 0;
+      }
+
+      .custom-social-proof .custom-notification {
+        width: 95%;
+        margin: 0 auto;
+      }
+}

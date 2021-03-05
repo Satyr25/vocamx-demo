@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('TimesNewRomanPS-ItalicMT.eot');
+    src: url('TimesNewRomanPS-ItalicMT.eot?#iefix') format('embedded-opentype'),
+        url('TimesNewRomanPS-ItalicMT.woff2') format('woff2'),
+        url('TimesNewRomanPS-ItalicMT.woff') format('woff'),
+        url('TimesNewRomanPS-ItalicMT.ttf') format('truetype'),
+        url('TimesNewRomanPS-ItalicMT.svg#TimesNewRomanPS-ItalicMT') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

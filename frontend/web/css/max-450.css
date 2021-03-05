@@ -1,0 +1,95 @@
+@media all and (max-width:450px){
+    .center-block-fs img{
+        max-width: 250px;
+    }
+
+    .producto-img-wrapper .product-img{
+    min-height: 130px;
+    }
+
+    .ahorro-bomber{
+    line-height: unset;
+    }
+    #crea-la-tuya img {
+        max-width: 90px;
+    }
+
+    .list-unstyled.multi-steps li{
+        font-size: 10px;
+    }
+
+    .imagenes-metodos div img {
+        max-width: 69px;
+    }
+
+    #hidable-header-bar{
+        font-size: 0.75em;
+    }
+
+    .imagenes img, .imagenes.youtube iframe {
+        max-height: 100px;
+        margin: 0 auto;
+        border: 2.5px solid #dbdbdb;
+    }
+
+    #detalles-trazos .bloques-carac, #features-assist .bloques-carac {
+        font-size: 0.7em;
+    }
+
+    .nombre-paso{
+        font-size: 0.9em;
+    }
+
+    .span-meses{
+        font-size: 1em;
+    }
+
+    .bloque-sm{
+
+    }
+
+    .product-cart-pic {
+        max-height: 110px;
+    }
+
+    #confirmacion-compra #listado-productos .nombre-producto{
+        display: none;
+    }
+
+    #confirmacion-compra #listado-productos td, #confirmacion-compra #listado-productos th{
+        padding: 10px 10px;
+    }
+    #precio-hope-head{
+        font-size: 20px;
+    }
+        
+    #hopebox-body2 .parrafo{
+        height: 110px;
+    }
+    .etiqueta-precio img {
+        width: 75px;
+    }
+    
+    .bloque-sm .precio.eng {
+        font-size: 0.7em;
+    }
+    .bloque-sm .precio{
+        top: 18px;
+    }
+    .bloque-bombers-mobile .btn-accion {
+        font-size: 1em;
+    }
+    .bloque-bombers-mobile .flecha-img {
+        max-width: 13px;
+    }
+    #boton-pago-popup{
+        font-family: 'Bebas Neue';
+        position: absolute;
+        background-color: red;
+        top: 34%;
+        right: 36%;
+        padding: 6px 25px;
+        border-radius: 30px;
+        font-size: 15px;
+    }
+}

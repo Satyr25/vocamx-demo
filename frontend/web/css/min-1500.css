@@ -1,0 +1,1733 @@
+@media all and (min-width: 1500px) {
+    #puntos-mexa{
+        background-size: 100% auto;
+    }
+
+    .datos_personales-altura-footer {
+        position: absolute;
+        top: auto;
+        bottom: 205px;
+        right: 25px;
+        max-height: 100%;
+    }
+
+    #checkout-index .multi-steps{
+        display: table;
+        table-layout: fixed;
+        width: 64%;
+        margin-left: 18%;
+        padding-top: 3px;
+    }
+
+    #checkout-index .multi-steps > li {
+      counter-increment: stepNum;
+      text-align: center;
+      display: table-cell;
+      position: relative;
+      color: #c10230;
+      font-size: 1.2em;
+    }
+
+    .btn-ayuda-checkout{
+        position: absolute;
+        top: 63px;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        width: 444px;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: #c10230;
+        font-size: 2em;
+        font-family: 'Bebas Neue';
+        border-radius: 1px 1px 10px 10px;
+        height: 38px;
+    }
+
+    .btn-ayuda-checkout img{
+        display: inline-block;
+        max-width: 29px;
+    }
+
+    #carrito-index main{
+        min-height: 85vh;
+    }
+    #texto-vocamx{
+        padding: 120px 0;
+    }
+
+    #texto-vocamx .container > div{
+        font-size: 2em;
+    }
+
+    #imagotipo-somos{
+        max-width: 200px;
+    }
+
+    #slide-3 .texto-slide {
+        padding: 0;
+        vertical-align: middle;
+        position: absolute;
+        right: 10%;
+        top: 25%;
+    }
+
+    #slide-3 .texto-slide .declaracion{
+        font-size: 3.5em;
+    }
+
+    #slide-3 .texto-slide .quienes{
+        font-size: 8em;
+    }
+
+    #slide-3 .texto-slide .somos{
+        font-size: 10em;
+    }
+
+    #texto-vocamx{
+        padding: 200px 0;
+    }
+
+    #fotos-producto .video-vocamx{
+        margin-top: 10%;
+    }
+
+    #tallas a span{
+        margin-left: 27%;
+    }
+
+    #visor-fotos{
+    }
+
+    #datos-producto.container{
+        max-width: none;
+    }
+
+    #registro-usuario{
+        height: 80vh;
+    }
+
+    #bloque-aguila .col-md-2{
+        margin-right: -30px;
+    }
+
+    .imagenes img, .imagenes.youtube iframe {
+        max-height: 360px;
+    }
+
+    #barra-lateral-container{
+        padding: 0 55px;
+    }
+
+    .franjaimg-escritorio {
+        background-color: #999;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #fff;
+        font-weight: bold;
+        font-size: 18px;
+        height: 23px;
+    }
+
+    .imgcamara-escritorio {
+        height: 73%;
+        width: 2.8%;
+    }
+
+    #pasos-trazos.escritorio{
+        background-color: #f1f1f1;
+         margin-bottom: 2px;
+        padding: 2px 0px 0px 11px;
+        border-left: 12px solid #fff;
+        border-right: 33px solid #fff;
+
+    }
+
+    .imagen-seleccionada-escritorio{
+        background-color: #f1f1f1;
+    }
+
+    .imagen-carrusel{
+       width: 95%;
+        height: auto;
+    }
+
+    .texto-fondo-escritorio{
+        position: absolute;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.8);
+        padding-right: 10px;
+        padding-left: 10px;
+        color: #fff;
+        width: 100%;
+    }
+
+    #btn-siguiente {
+        padding-top: 28px;
+    }
+
+    .texto-abajo-escritorio{
+        font-size: 25px;
+        font-family: 'bebas Neue';
+        margin-bottom: 0;
+    }
+
+    .texto-abajo-agrega-escritorio{
+        font-size: 20px;
+        font-family: 'bebas Neue';
+        margin-bottom: 0;
+    }
+
+    .tatuajes-escritorio {
+        display: inline-block;
+        width: 50%;
+    }
+
+    .costo-escritorio{
+        display: inline-block;
+        width: 50%;
+        float: right;
+        text-align: right;
+    }
+
+    .agrega-escritorio
+    {
+        display: inline-block;
+        width: 65%;
+    }
+    .entrega-escritorio{
+        display: inline-block;
+        width: 35%;
+        float: right;
+        text-align: right;
+    }
+
+   .text-center.franja-comenzar-escritorio {
+        font-weight: normal;
+        background-color: transparent;
+        padding: 21px;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #000;
+        font-size: 30px;
+    }
+
+    #sube-foto-bloque, #info-foto-bloque{
+        padding: 0 15px;
+    }
+
+     #texto-asistencia-escritorio{
+        font-size: 30px;
+        padding-top: 70px;
+        color: #c10230;
+    }
+
+    #producto-nuevotitulo-escritorio{
+        font-family: bebas Neue;
+        font-size: 24px;
+    }
+
+    #producto-nuevo-escritorio label{
+        font-weight: normal;
+        font-size: 22px;
+        font-family: Bebas Neue;
+    }
+
+    #customphotoform-elementos {
+        width: 59px;
+        height: auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #subida-exito {
+        display: none;
+        color: #31B404;
+        font-size: 30px;
+        margin-top: 8px;
+        margin-left: 5px;
+    }
+
+    #precio-trazado-escritorio .ahorro-bomber-escritorio > span{
+        font-size: 23px;
+    }
+
+   #precio-trazado-escritorio .control-label{
+        font-family: Bebas Neue;
+        margin-bottom: 0;
+        font-size: 25px;
+        font-weight: normal;
+    }
+
+    #precio-trazado-escritorio .help-block{
+        margin-bottom: 0;
+    }
+
+    .ahorro-bomber-escritorio{
+        line-height: 1;
+        margin-bottom: 2px;
+        font-size: 21px;
+    }
+
+     .dia-entrega-escritorio{
+        font-size: 25px;
+        color: #c10230;
+        font-family: bebas Neue;
+        padding-top: 25px;
+    }
+
+    .imagen-carrito-escritorio {
+        width: 15%;
+        margin-left: 5px;
+    }
+
+     .img-bomber-escritorio{
+        width: 50%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .img-bomber1-escritorio{
+        width: 50%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .img-bomber2-escritorio{
+        width: 50%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .bloque-importante {
+        text-align: center;
+    }
+
+    .img-carrusel-gato{
+        width: 100%;
+        height: auto;
+        border: 2.5px solid #dbdbdb;
+        margin: 0 auto;
+    }
+
+    .franja-importante-escritorio{
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #000;
+        font-size: 30px;
+    }
+
+    .franjaayuda-escritorio{
+        background-color: #fff;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #999;
+        font-size: 25px;
+    }
+
+    .video-escritorio .text-center{
+        background-color: #f1f1f1;
+        padding: 18px;
+    }
+
+    .col-md-6.video-escritorio {
+        padding-right: 11%;
+        padding-left: 0;
+    }
+
+    .proceso-video {
+        height: 460px;
+        width: 76%;
+    }
+
+    .bloque-proceso{
+        text-align: center;
+        background-color: #f1f1f1;
+        padding: 12px;
+    }
+
+    .franja-conoce-escritorio{
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #000;
+        font-size: 30px;
+    }
+
+    .imagen-ayuda-escritorio{
+        width: 45%;
+        height: auto;
+        padding-top: 10px;
+
+    }
+
+    .bloque-ayuda label {
+        font-weight: normal;
+    }
+
+    .texto-derechos-escritorio{
+        font-size: 22px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 21px;
+        padding: 9px;
+    }
+
+    #btn-escritorio{
+        color: #fff;
+        background-color: #000;
+        width: 142px;
+        margin-bottom: 10px;
+    }
+
+   .texto-imagen-frente-esc {
+        font-size: 22px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 21px;
+        padding: 9px;
+        padding-left: 5px;
+    }
+
+    .texto-nitido-escritorio {
+        font-size: 22px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 21px;
+        padding: 9px;
+        padding-left: 20px;
+        padding-right: 22px;
+    }
+
+    #producto-nuevo-escritorio {
+        width: 31%;
+        float: left;
+        font-size: 14px;
+        font-family: bebas Neue;
+        padding-left: 26px;
+        padding-top: 8px;
+    }
+
+    #precio-trazado-escritorio {
+        width: 41%;
+        float: right;
+        font-size: 16px;
+        line-height: 34px;
+        padding-right: 19px;
+        text-align: center;
+        padding-top: 14px;
+    }
+
+    #numero-elementos-escritorio {
+        width: 26%;
+        float: left;
+        font-size: 31px;
+        text-align: center;
+        padding-top: 13px;
+        padding-left: 19px;
+        font-family: Bebas Neue;
+    }
+
+    #numero-elementos-escritorio label{
+        font-weight: normal;
+    }
+
+     .bloque-imagenes {
+    }
+
+    .imgchica-escritorio{
+        width: 96%;
+        height: auto;
+    }
+
+    .imgchica2-escritorio{
+        width: 97%;
+        height: auto;
+        padding-top: 10%;
+    }
+
+    .imgchica3-escritorio{
+        width: 100%;
+        height: auto;
+        padding-top: 7%;
+    }
+
+    .btn-ayuda-escritorio {
+        position: absolute;
+        top: 0;
+        left: 116%;
+        transform: translateX(-50%);
+        color: #fff;
+        width: 155px;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-color: #c10230;
+        font-size: 1.3em;
+        font-family: 'Bebas Neue';
+        border-radius: 1px 1px 10px 10px;
+        height: 35px;
+    }
+
+    .btn-ayuda-escritorio img{
+        display: inline-block;
+        max-width: 30px;
+    }
+
+    .text-dondeescri {
+        color: #000;
+        font-size: 25px;
+        padding: 0;
+        padding-left: 0;
+    }
+
+    #sube-foto-escritorio {
+        font-size: 1.5em;
+        border: 2px solid #999;
+        background-color: transparent;
+        color: #999;
+        width: 167px;
+    }
+
+    #sube-foto-bloque {
+        padding: 0 15px;
+    }
+
+    .personaliza-escritorio{
+        max-width: 41%;
+        padding-top: 0px;
+        padding-right: 8px;
+    }
+
+    .pasos-escritorio{
+        text-align: left;
+    }
+
+    #paso2-escritorio {
+        margin-bottom: 0;
+        padding-left: 10px;
+    }
+
+    .paso1{
+        display: inline-block;
+        padding-left: 42px;
+        font-size: 26px;
+        color: #000;
+    }
+
+    #sube-foto-escri {
+        display: inline-block;
+        width: 66%;
+        font-size: 1.5em;
+        border: 1px solid #999;
+        background-color: #fff;
+        color: #999;
+        max-width: 100%;
+        margin-left: 3%;
+        height: 39px;
+    }
+
+    .imagen-subir-escri {
+        width: 6%;
+        height: auto;
+        margin-top: -13px;
+    }
+
+    .paso2{
+        display: inline-block;
+        padding-left: 15px;
+        padding-top: 1px;
+        font-size: 26px;
+        color: #000;
+    }
+
+    .personaliza-escri input {
+        display: inline-block;
+        margin: 2px 1%;
+        text-align: center;
+        width: 100%;
+        color: #999;
+        height: 25%;
+        border: 0;
+        font-size: 19px;
+        font-family: bebas Neue;
+        border: 1px solid #999;
+    }
+
+    #menu-posicion{
+        display: inline-block;
+        width: 65%;
+        font-size: 1.5em;
+        border: 2px solid #999;
+        background-color: #fff;
+        color: #999;
+    }
+
+    .titulo-paso {
+        padding-right: 0;
+        padding-left: 27px;
+    }
+
+    .mensaje {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .imagen-lapiz {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .menu-posicion {
+        padding-left: 0;
+        padding-right: 30px;
+    }
+
+    .titulo-donde {
+        padding-right: 0;
+    }
+
+    #precio-trazado .ahorro-bomber-escritorio > span {
+        font-size: 13px;
+    }
+
+    #texto-precio-escritorio{
+        font-family: 'Bebas Neue';
+        font-size: 25px;
+    }
+
+    #texto-precio-escritorio .precio-producto-chico{
+        font-size: 12px;
+        font-family: 'Bebas Neue';
+    }
+
+    #cantidad-elementos{
+        width: 50px;
+        height: auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #numero-precio-escritorio {
+        line-height: 44px;
+        font-size: 30px;
+    }
+
+    .producto-nuevotitulo-escritorio {
+        padding-top: 5px;
+        font-size: 25px;
+    }
+
+     #pasos-trazos-escritorio{
+    max-width: 1900px;
+    }
+
+    .bloque-ayuda.hidden-sm.hidden-xs.row {
+    }
+
+    .contenedor.trazo.hidden-sm.hidden-xs {
+        padding-top: 83px ;
+    }
+
+    #texto-piensa-escritorio{
+        color: #000;
+/*        background-image: url(../images/alta_personalizacion/fotobloqueescritorio.jpg);*/
+        background-repeat: no-repeat;
+        background-size: auto 156%;
+        background-position: right;
+        padding: 59px;
+    }
+
+    .franja-crea-escritorio{
+        background-color: #000;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 30px;
+        height: 35px;
+        margin-top: 41px;
+        margin-right: 97px;
+        margin-left: 97px;
+    }
+
+    .diamante-escritorio {
+        height: 67%;
+        width: 2.4%;
+    }
+
+    .bloque-crea-escritorio.hidden-sm.hidden-xs {
+        padding-top: 3px;
+        margin-left: 90px;
+        margin-right: 90px;
+    }
+
+    #alta-personalizacion {
+        height: auto;
+    }
+
+    .bloque2alta-escritorio {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .bloque-crea-escritorio{
+        background-color: #e3e3e3;
+        border-left: 7px solid #FFF;
+        border-right: 7px solid #fff;
+        padding-right: 16px;
+        padding-top: 11px
+    }
+
+    .text-center.franja-dudas-escritorio {
+        font-weight: normal;
+        background-color: transparent;
+        padding: 8px;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #000;
+        font-size: 22px;
+        padding-top: 54px;
+    }
+
+    .texto-gustaria-escritorio {
+        font-size: 30px;
+        font-family: Bebas Neue;
+        line-height: 44px;
+    }
+
+
+    .texto-ilustramos-escritorio {
+        font-family: Bebas Neue;
+        font-size: 25px;
+        line-height: 58px;
+    }
+
+    .texto-recibe-escritorio {
+        font-family: Bebas Neue;
+        font-size: 25px;
+        line-height: 16px;
+    }
+
+    .img-marca-escritorio {
+        width: 15%;
+        height: auto;
+    }
+
+    .bloque-ayuda-escritorio{
+        text-align: center;
+        padding-left: 17%;
+        padding-right: 10px;
+    }
+
+    .imagen-chica2-escritorio{
+        width: 100%;
+        height: auto;
+    }
+
+
+    .bloque-dudas-escritorio{
+       padding-top: 25px;
+    }
+
+    .texto-dudas-escritorio{
+        font-size: 22px;
+        font-family: Bebas Neue;
+    }
+
+    .btn-ayuda-alta-escritorio{
+        position: absolute;
+        top: 0;
+        left: 96%;
+        transform: translateX(-50%);
+        width: 63%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000;
+        font-size: 25px;
+        font-family: 'Bebas Neue';
+        height: 50px;
+        border: 3px solid #000;
+        padding: 7px 0;
+    }
+
+    .ayuda-btn{
+        color: #000;
+    }
+
+    .btn-ayuda-alta-escritorio{
+        color: #000;
+    }
+
+    #video-voca {
+        width: 100%;
+        height: 411px;
+    }
+
+    .franja-creanosotros-escritorio {
+        background-color: #fff;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-size: 30px;
+        height: 23px;
+        padding-top: 1px;
+        text-align: center;
+    }
+
+    .bloque-crea-nosotros-escritorio {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+
+    .img-creanosotros-escritorio {
+        width: 112%;
+        height: auto;
+        position: relative;
+    }
+
+    .col-sm-6.col-md-6.col-xs-6.ayuda-escritorio {
+        background-color: #fff;
+    }
+
+    .img-logotipovoca-escritorio {
+/*
+        width: 22%;
+        height: auto;
+           padding: 19px;
+        margin: 35px;
+*/
+    }
+
+    .precio-alta {
+        font-size: 52px;
+        line-height: 23px;
+    }
+
+    #texto-ilustracion-escritorio {
+        font-family: Bebas Neue;
+        text-align: center;
+        color: #000;
+    }
+
+    #texto-ilustra-escritorio{
+        font-size: 22px;
+        line-height: 27px;
+        font-weight: normal
+    }
+
+    #texto-guia-escritorio {
+        font-size: 22px;
+        line-height: 27px;
+/*        padding: 15px;*/
+        font-weight: normal;
+    }
+
+    #texto-dinos-escritorio{
+        font-size: 22px;
+        font-weight: normal;
+    }
+
+    #texto-listo-escritorio {
+        font-size: 22px;
+        line-height: 27px;
+        font-weight: normal;
+/*        padding: 15px;*/
+    }
+
+
+    .bloque-paquete-escritorio{
+        margin-left: 115px;
+        margin-right: 115px;
+    }
+
+
+    .bloquepaquete-escritorio {
+/*        background-color: #e3e3e3;*/
+/*        padding-left: 161px;*/
+    }
+
+    .titulo-paquete-escritorio {
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        font-size: 30px;
+        height: 23px;
+        color: #000;
+        margin: 9px;
+/*        padding-left: 267px;*/
+    }
+
+    #texto-incluye-escritorio label{
+        font-weight: normal;
+        color: #000;
+        line-height: 1;
+        font-size: 25px;
+    }
+
+    .incluye-alta{
+        font-size: 36px;
+    }
+
+    #texto-incluye-escritorio{
+        font-size: 22px;
+        font-family: bebas Neue;
+        line-height: 26px;
+        padding-top: 40px;
+        padding-right: 0;
+/*        padding-left: 100px;*/
+        color: #000;
+    }
+
+    .texto-asistencia-escritorio {
+        font-size: 27px;
+    }
+
+    #texto-ahorro-escritorio label{
+        font-weight: normal;
+        color: #000;
+        padding: 11px;
+        font-size: 25px;
+    }
+    #texto-ahorro-escritorio{
+        font-size: 25px;
+        font-family: bebas Neue;
+        line-height: 8px;
+        padding-top: 47px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .col-sm-2.col-xs-2.text-center.bloque-texto-escritorio {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .col-sm-4.col-xs-4.text-center.envios-gratis {
+        color: #000;
+        font-family: bebas Neue;
+        font-size: 25px;
+        text-align: center;
+        padding-top: 38px;
+    }
+
+    #texto-gratis-escritorio label{
+        font-weight: normal;
+    }
+
+    #texto-gratis-escritorio{
+        color: #C10230;
+        font-family: bebas Neue;
+        font-size: 36px;
+        text-align: center;
+    }
+
+    #texto-personalizado-escritorio label{
+        font-weight: normal;
+        line-height: 1;
+        font-size: 25px;
+    }
+
+    #texto-personalizado-escritorio{
+        font-size: 22px;
+        font-family: bebas Neue;
+        line-height: 27px;
+        padding-top: 36px;
+        color: #C10230;
+/*        padding-left: 104px;*/
+    }
+
+    #personalizado-escritorio{
+        line-height: 0;
+    }
+
+    .imagen-granventa-escritorio{
+        width: 55%;
+        height: auto;
+        margin-top: 0;
+        margin: 34px;
+    }
+
+    .col-md-3.chicapaquete {
+        background-color: #e3e3e3;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .imagen-introduccion-escritorio {
+        width: 107%;
+        height: auto;
+        margin-left: -48px;
+        color: #C10230;
+    }
+
+    .envio-gratis-escritorio{
+        font-family: Bebas Neue;
+        font-size: 25px;
+        font-weight: normal;
+        line-height: 0.9;
+    }
+
+    .envio-gratis1-escritorio{
+         font-family: Bebas Neue;
+        font-size: 80px;
+        line-height: 54px;
+        font-weight: normal;
+        padding-top: 53px;
+        letter-spacing: 10px;
+        padding-left: 10px;
+    }
+
+    .envio-mexico{
+        font-family: Bebas Neue;
+        font-size: 25px;
+        font-weight: normal;
+        color: #C10230;
+        padding-top: 35px;
+/*        padding-left: 86px;*/
+        line-height: 0.9;
+    }
+
+    .bloque3alta{
+        margin-left: 115px;
+        margin-right: 115px;
+    }
+
+    .titulo-maximo-escritorio {
+        padding: 30px;
+    }
+
+    .imagen-maximo-escritorio{
+        width: 100%;
+        height: auto;
+        padding: 2px 0 3px 0;
+    }
+
+    .texto-maximo-escritorio {
+        font-family: Bebas Neue;
+        font-size: 30px;
+        color: #000;
+    }
+
+    .titulo-elige-escritorio{
+        padding: 25px;
+    }
+
+    .texto-elige-escritorio{
+        font-family: Bebas Neue;
+        font-size: 30px;
+        color: #000;
+    }
+
+    .titulo-metalico-escritorio {
+        background-image: url(../images//alta_personalizacion/metalico/plecaMetalico.jpg);
+        background-size: 100%;
+        font-family: Bebas Neue;
+        font-size: 25px;
+        padding-top: 5px;
+        color: #000;
+    }
+
+    .bloque-metalico-escritorio{
+        background-image: url(../images//alta_personalizacion/metalico/fondo.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        padding: 12px;
+        padding-right: 0;
+        padding-left: 10px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .imagen-metalico-escritorio{
+        width: 100%;
+        height: auto;
+        padding: 6px 0 11px 0px;
+    }
+
+    .texto-sudadera-escritorio{
+        font-size: 22px;
+        font-family: Bebas Neue;
+        color: #000;
+/*        padding-left: 15px;*/
+    }
+
+    .titulo-terciopelo-escritorio {
+        background-image: url(../images//alta_personalizacion/terciopelo/plecaTerciopelo.jpg);
+        background-size: 100%;
+        font-family: Bebas Neue;
+        font-size: 25px;
+        border-top: 4px solid #fff;
+        color: #000;
+        padding-top: 5px;
+    }
+
+    .bloque-terciopelo-escritorio {
+        background-image: url(../images//alta_personalizacion/terciopelo/fondoTerciopelo.jpg);
+/*        background-size: 100%;*/
+        background-repeat: no-repeat;
+        padding: 12px;
+        padding-left: 10px;
+        padding-right: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .imagen-terciopelo-escritorio{
+        width: 100%;
+        height: auto;
+        padding: 6px 0 11px 0;
+    }
+
+    .texto-sudadera2-escritorio{
+        font-size: 22px;
+        font-family: Bebas Neue;
+        color: #000;
+/*        padding-left: 15px;*/
+    }
+
+    .col-sm-3.col-xs-3.metalico-escritorio {
+        padding-left: 2px;
+        padding-right: 14px;
+    }
+
+    .col-sm-3.col-xs-3.text-center.terciopelo-escritorio {
+        padding-left: 2px;
+        padding-right: 14px;
+    }
+
+    .col-md-6.carrusel-exclusivos {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .imagen-carrousel-rk-escritorio{
+        width: 100%;
+        height: 554px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .bloque4-alta{
+        margin-left: 115px;
+        margin-right: 115px;
+    }
+
+    .titulo-exclusivo-escritorio {
+        padding-top: 38px;
+    }
+
+    .texto-diseños-escritorio{
+        font-family: Bebas Neue;
+        font-size: 30px;
+        color: #000;
+    }
+
+    .container-fluid.imagenenes-rk-escritorio.hidden-sm.hidden-xs {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #carrusel-rk-escritorio .slick-slide {
+        box-shadow: 0px 0px 3px 3px #f1f1f1;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #carrusel-rk-escritorio .slick-list.draggable {
+        padding-bottom: 10px !important;
+    }
+
+    .texto-inspi1-escritorio {
+        text-align: center;
+        margin: 0;
+    }
+
+    label.texto-inspirado1-escritorio {
+        font-weight: normal;
+        margin-bottom: 0;
+    }
+
+    .texto-inspirado1-escritorio{
+        font-family: Bebas Neue;
+        font-size: 22px;
+        color: #000;
+        padding-top: 10px;
+    }
+
+    .texto-inspi2-escritorio{
+        text-align: center;
+    }
+
+    .texto-inspirado2-escritorio label{
+        font-weight: normal;
+        margin-bottom: 0;
+        line-height: 11px;
+    }
+
+    .texto-inspirado2-escritorio{
+        font-family: Bebas Neue;
+        font-size: 22px;
+        color: #666;
+        text-align: center;
+        font-weight: normal;
+    }
+
+    .container-fluid.imagenes-rk-escritorio{
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .container.imagenenes-rk-escritorio{
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .texto-fondo-rk-escritorio{
+        padding-left: 2px;
+        padding-right: 2px;
+        color: #fff;
+        width: 100%;
+        min-height: 70px;
+    }
+
+    .bloque-importante-escritorio {
+        padding-top: 21px;
+    }
+
+    .bloquecaritas-escritorio {
+        text-align: center;
+    }
+
+    .franja-importante1-escritorio{
+        background-color: #fff;
+        padding-top: 1px;
+        font-family: 'Bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-size: 30px;
+    }
+
+    .franja-ayudasiguiente1-escritorio{
+        background-color: #fff;
+        font-family: 'Bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-weight: normal;
+        font-size: 30px;
+        letter-spacing: -1px;
+    }
+
+    .bloqueayuda2-escritorio {
+        padding-left: 20px;
+        padding-right: 10px;
+    }
+
+
+    .imagen-ayuda2-alta-escritorio{
+        width: 35%;
+        height: auto;
+        padding-top: 10px;
+
+    }
+
+    .bloque-importante-escritorio label{
+        font-weight: normal;
+        font-size: 22px;
+    }
+
+    .texto-clara-alta-escritorio{
+        font-size: 26px;
+        color: #000;
+        font-family: Bebas Neue;
+        line-height: 22px;
+        padding: 5px;
+        padding-left: 47px;
+    }
+
+    .texto-comunicar-alta-escritorio{
+        font-size: 25px;
+        color: #000;
+        font-family: Bebas Neue;
+        line-height: 23px;
+        padding: 5px;
+        padding-left: 5px;
+    }
+
+
+    .texto-derechos1-alta-escritorio{
+    font-size: 26px;
+    color: #000;
+    font-family: Bebas Neue;
+    line-height: 22px;
+    padding: 7px;
+    padding-right: 20px;
+
+    }
+
+    .imagen-clara-alta-escritorio{
+        width: 35%;
+        height: auto;
+        padding-top: 10px;
+        margin-left: 41px;
+    }
+
+    .franja-conoce1-escritorio{
+    background-color: #fff;
+    padding-top: 1px;
+    font-family: 'Bebas Neue';
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    color: #000;
+    font-size: 30px;
+    }
+
+    .bloqueproceso1-escritorio {
+        text-align: center;
+    }
+
+    iframe.video-youtube-proceso1 {
+        height: 291px;
+        width: 320px;
+    }
+
+
+    .bloque5-alta {
+        margin-right: 208px;
+        margin-left: 208px;
+    }
+    .bloque-gris-alta-escritorio{
+        background-color: #f1f1f1;
+        line-height: 1;
+    }
+
+    .bloque-gris2-alta-escritorio{
+        background-color: #f1f1f1;
+        line-height: 1;
+        border: 2px solid #fff;
+        border-right: 0px;
+        border-left: 0px;
+    }
+
+    #paso1-alta{
+        padding-top: 10px;
+        color: #000;
+    }
+
+    .subirimagen1 {
+        border: 5px solid #FFF;
+    }
+
+    .subirimagen2 {
+        border: 5px solid #FFF;
+    }
+
+    .btn-ayuda-altapersonalizacion-escritorio{
+        position: absolute;
+        top: 0;
+        left: 120%;
+        transform: translateX(-50%);
+        color: #fff;
+        width: 155px;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-color: #c10230;
+        font-size: 22px;
+        font-family: 'Bebas Neue';
+        border-radius: 1px 1px 10px 10px;
+        height: 32px;
+    }
+
+    .btn-ayuda-altapersonalizacion-escritorio img{
+        display: inline-block;
+        max-width: 29px;
+    }
+
+    .franja-ayuda-altapersonalizacion-escritorio{
+        background-color: transparent;
+        font-family: 'karla';
+        text-transform: uppercase;
+        color: #c10230;
+        font-weight: bold;
+        font-size: 13 px;
+        padding: 29px;
+        padding-bottom: 5px;
+    }
+
+    .franja-comenzar-alta-escritorio {
+        background-color: #fff;
+        padding-top: 1px;
+        font-family: 'Bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-size: 30px;
+    }
+
+    .textos-menu-alta-escritorio {
+        padding-left: 25px;
+    }
+
+    #sube-foto-bloque-alta-escritorio .bloque-asistencia.hidden-mobile{
+        margin-top: 70px;
+    }
+
+    #sube-foto-alta-escritorio, #info-foto-bloque-alta{
+        padding: 0 25px;
+    }
+
+    #sube-foto-btn-alta-escritorio{
+        font-size: 1.7em;
+        border: 2px solid #999;
+        background-color: transparent;
+        color: #999;
+        width: 140%;
+
+    }
+
+    .imagen-subir-alta-escritorio{
+        max-width: 100px;
+        max-height: 46px;
+        padding-top: 4px;
+        padding-left: 5px;
+    }
+
+    #paso2-alta-escritorio{
+        color: #000;
+        margin-bottom: -18px;
+        padding: 0px 0 5px 0px;
+    }
+
+    .textos-personaliza-alta-escritorio input {
+        display: block;
+        float: left;
+        margin: 5px 1%;
+        text-align: center;
+        width: 88%;
+        color: #999;
+        height: 25%;
+        border: 0;
+        font-size: 15px;
+        font-family: bebas Neue;
+    }
+
+    .personaliza-img-alta-escritorio {
+        max-width: 30px;
+        max-height: 45px;
+        padding-top: 7px;
+        padding-left: 5px;
+    }
+
+    #texto-asistencia-alta-escritorio{
+        font-size: 25px;
+        padding-top: 32px;
+        color: #c10230;
+    }
+
+    #producto-nuevo-alta-escritorio{
+        width: 41%;
+        float: left;
+        font-size: 20px;
+        font-family: Bebas Neue;
+        padding-left: 18px;
+        padding-top: 15px;
+    }
+
+    #menu-checkbox-escritorio{
+        padding-top: 10px;
+    }
+
+    .producto-nuevotitulo-alta-escritorio{
+        font-family: Bebas Neue;
+        font-size: 25px;
+    }
+
+    #producto-nuevo-alta-escritorio label{
+        font-weight: normal;
+    }
+
+    #numero-elementos-alta-escritorio{
+        width: 20%;
+        float: left;
+        font-size: 20px;
+        font-family: Bebas Neue;
+        padding-left: 18px;
+        padding-top: 15px;
+    }
+
+    #precio-trazado-alta-escritorio{
+        width: 33%;
+        float: right;
+        font-size: 16px;
+        padding-right: 10px;
+        padding-top: 17px;
+
+    }
+
+    #precio-trazado-alta-escritorio.ahorro-bomber-alta{
+        padding: 2px 1px;
+    }
+
+    #precio-trazado-alta-escritorio .ahorro-bomber-alta > span{
+        font-size: 10px;
+    }
+
+    #precio-trazado-alta-escritorio .control-label{
+        margin-bottom: 0;
+        font-size: 25px;
+        font-family: Bebas Neue;
+        font-weight: normal;
+    }
+
+    #precio-trazado-alta-escritorio .help-block{
+        margin-bottom: 0;
+    }
+
+    #texto-precio-alta-escritorio{
+        font-family: 'Bebas Neue';
+        font-size: 22px;
+    }
+
+    div#elementos-precio-alta-escritorio {
+        padding-left: 1px;
+        padding-right: 12px;
+    }
+
+    #texto-precio-alta-escritorio .precio-producto-chico-alta{
+        font-size: 12px;
+        font-family: 'Bebas Neue';
+    }
+
+    .precio-producto-chico-alta-escritorio{
+        color: #c10230;
+         font-size: 0.7em;
+    }
+
+    .ahorro-bomber-alta > span{
+        font-family: 'Karla';
+        color: #333;
+        font-size: 0.6em;
+        font-weight: bold;
+    }
+
+    .ahorro-bomber-escritorio .title{
+        text-transform: uppercase;
+    }
+
+    .ahorro-bomber-alta-escritorio{
+        line-height: 2px;
+        margin-bottom: 2px;
+        font-size: 15px;
+        padding-top: 11px;
+    }
+
+    .dia-entrega-alta-escritorio{
+        font-size: 19px;
+        color: #c10230;
+        font-family: bebas Neue;
+        padding-top: 12px;
+    }
+
+    .imagen-carrito-entrega-alta-escritorio{
+        width: 23%;
+    }
+
+    #btn-siguiente-alta-escritorio{
+        color: #fff;
+        background-color: #000;
+        width: 300px;
+        margin-bottom: 10px;
+        height: 60px;
+        font-size: 1.4em;
+    }
+
+    .palomita-img-alta-escritorio{
+        width: 11%;
+        height: auto;
+    }
+
+    .palomita{
+        width: 9%;
+        height: auto;
+    }
+
+    #customphotoform-fotocustom {
+        width: 1px;
+        height: 0.1px;
+        opacity: 0;
+        overflow: hidden;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .texto-diseño-escritorio{
+        font-family: Bebas Neue;
+        font-size: 26px;
+        color: #000;
+    }
+
+    .imagen-ritual-escritorio{
+        width: 88%;
+        height: auto;
+        padding: 2px 0 3px 0;
+    }
+
+    .texto-instagram-escritorio{
+        font-family: Bebas Neue;
+        font-size: 20px;
+        color: #000;
+    }
+
+
+    .texto-diseños-exclusivos {
+        line-height: 11px;
+        padding: 8px;
+    }
+
+    .texto-diseños-exclusivos-escritorio {
+      font-weight: normal;
+    }
+
+    #customphotoform-menu-escritorio {
+        font-size: 13px;
+        font-family: Bebas Neue;
+    }
+
+    #customphotoform-menu label{
+        font-weight: normal;
+        padding-left: 14px;
+    }
+
+    input[type="checkbox"] {
+        width: 26px;
+        height: 21px;
+    }
+
+    .textos-personaliza-alta-escritorio textarea{
+        display: block;
+        float: left;
+        margin: 5px 1%;
+        text-align: center;
+        width: 88%;
+        color: #999;
+        height: 30%;
+        border: 0;
+        font-size: 24px;
+        font-family: bebas Neue;
+        line-height: 32px;
+        padding-left: 155px;
+        padding-right: 155px;
+    }
+
+    .has-success.control-label{
+        color: #000;
+    }
+
+    .bloqueincluido-escritorio.row {
+        padding-left: 19px;
+        padding-right: 0;
+        padding-top: 0;
+        margin-top: -16px;
+    }
+
+    .col-sm-2.col-xs-2.text-center.incluido {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    span.texto-incluido-escritorio{
+        font-size: 22px;
+        display: block;
+        color: #c10230;
+        font-family: Bebas Neue;
+        padding-left: 0;
+    }
+
+    span#numero-precio-alta-escritorio {
+        text-align: center;
+        padding-left: 55px;
+    }
+
+    .form-group.field-customphotoform-color {
+        display: inline-block;
+    }
+
+    .color-menu {
+        font-family: Bebas Neue;
+        display: inline-block;
+        font-size: 22px;
+        margin-right: -110px;
+    }
+
+    #customphotoform-color{
+        text-align: center;
+        width: 86%;
+        color: #999;
+        height: 19%;
+        border: 0;
+        font-size: 18px;
+        display: inline-block;
+        margin-top: 25px;
+    }
+
+    .text-color{
+        color: #999;
+        font-size: 16px;
+        padding: 13px;
+    }
+
+    .textos-color label{
+        font-family: Bebas Neue;
+        font-size: 17px;
+    }
+
+    #bombers-personalizacion #w0{
+        margin-top: 0;
+    }
+
+    .textos-menu-alta-escritorio {
+        font-family: Bebas Neue;
+        font-size: 22px;
+        padding-left: 0;
+    }
+
+    .textos-menu-alta-escritorio label{
+        font-weight: normal;
+        padding: 11px;
+        padding-left: 24px;
+    }
+
+    .textos-color-escritorio {
+        text-align: center;
+    }
+
+    .customphotoform-color label{
+        font-size: 50px;
+
+    }
+
+    label.control-label {
+        font-size: 25px;
+        font-family: Bebas Neue;
+        font-weight: normal;
+    }
+
+    .banner-top,
+    .banner-bottom {
+        width: 60%;
+    }
+
+    .checkout-block {
+        width: 60%;
+    }
+    
+    .float-foot{
+        height: 100px;
+        width: 356px;
+    }
+}

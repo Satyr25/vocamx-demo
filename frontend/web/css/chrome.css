@@ -1,0 +1,6 @@
+/* Chrome, Safari, AND NOW ALSO the Edge Browser and Firefox */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    #contenedor-principal{
+        padding: 0 0 60px;
+    }
+}

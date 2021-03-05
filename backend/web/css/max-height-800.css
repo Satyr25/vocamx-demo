@@ -1,0 +1,13 @@
+@media all and (max-height: 800px){
+    #texto-personalizacion > .container{
+        line-height: 1.2;
+    }
+
+    .diseno a img {
+        height: 120px;
+    }
+
+    #slider-disenos{
+        bottom: 30px;
+    }
+}

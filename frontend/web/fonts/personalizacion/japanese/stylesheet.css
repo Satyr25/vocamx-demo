@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Japanese';
+    src: url('Japanese.eot');
+    src: url('Japanese.eot?#iefix') format('embedded-opentype'),
+        url('Japanese.woff2') format('woff2'),
+        url('Japanese.woff') format('woff'),
+        url('Japanese.ttf') format('truetype'),
+        url('Japanese.svg#Japanese') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

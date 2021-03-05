@@ -1,0 +1,27 @@
+@media all and (max-width:1500px){
+    .container.info-extra{
+        padding-left: 51%;
+    }
+
+    #asistencia-block{
+        margin-top: 10px;
+    }
+
+	.resumen-altura-footer{
+	    position: absolute;
+	    top: auto;
+	    bottom: 200px;
+	    right: 25px;
+	    max-height: 100%;
+
+	}
+
+	.datos_personales-altura-footer {
+	    position: absolute;
+	    top: auto;
+	    bottom: 200px;
+	    left: 87px;
+	    max-height: 100%;
+	    width: 50%;
+	}
+}

@@ -1,0 +1,29 @@
+@media all and (max-width: 1200px){
+    #fotos-producto .slick-list{
+        margin-left: 0;
+    }
+
+    #fotos-producto .slick-prev{
+        left: 0;
+    }
+
+    #fotos-producto .slick-next{
+        right: 0;
+    }
+
+    #hidable-header-bar{
+        font-size: 0.9em;
+    }
+
+    #hidable-header-bar .icons-payment img{
+        max-width: 25px;
+    }
+
+    #menu a{
+        font-size: 1.1em;
+    }
+
+    #efectivo-block img{
+        max-width: 65px;
+    }
+}

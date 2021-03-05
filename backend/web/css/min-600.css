@@ -1,0 +1,101 @@
+@media all and (min-width: 600px) {
+    #bloque-productos .producto{
+        background-color: #fff;
+        float: left;
+        margin: 20px 1%;
+        width: 48%;
+    }
+
+    body.menu-especial #contenedor-principal{
+        left: -50%;
+    }
+
+    body.menu-especial #menu-especial{
+        right: 0;
+        width: 75%;
+    }
+
+    #menu-especial{
+        right: -50%;
+        width: 50%;
+    }
+
+    .slick-prev{
+        left: -40px;
+    }
+
+    .slick-next{
+        right: -40px;
+    }
+
+    .encabezado-pagina{
+        height: 250px;
+    }
+
+    #video{
+        background-color: #000;
+    }
+
+    .video-vocamx{
+        margin: 0 auto;
+        max-width: 800px;
+        width: 80%;
+    }
+
+    #slide-2 .texto-slide div{
+        width: 350px;
+        margin: 0 auto;
+    }
+
+    #slide-2 .texto-slide span.coolto {
+        font-size: 10em;
+        letter-spacing: 4px;
+    }
+
+    .texto-slide .accesorios{
+        text-align: left;
+    }
+
+    .texto-slide .cool-cultura{
+        text-align: right;
+    }
+
+    #imagotipo-somos{
+        max-width: 120px;
+    }
+
+    #slide-3 .texto-slide .declaracion{
+        font-size: 3.5em;
+    }
+
+    #slide-3 .texto-slide .quienes{
+        font-size: 8em;
+        letter-spacing: 7px;
+    }
+
+    #slide-3 .texto-slide .somos{
+        font-size: 9em;
+        letter-spacing: 7px;
+    }
+
+    #slide-4 .texto-slide span{
+        font-size: 4.5em;
+    }
+
+    #categorias-productos .categoria{
+        float: left;
+        margin: 20px 1%;
+        width: 48%;
+    }
+
+    #must-have .must-have{
+        float: left;
+        margin: 30px 2.5%;
+        width: 45%;
+    }
+
+    #logo-personalizacion{
+        max-width: 400px;
+        width: 70%;
+    }
+}

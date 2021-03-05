@@ -1,0 +1,109 @@
+@media all and (min-width: 992px) {
+    #bloque-productos .producto{
+        width: 23%;
+    }
+
+    .foto-comunidad{
+        margin: 30px 1%;
+        width: 23%;
+    }
+
+    #descripcion-vocamx #bloque-vocamx,
+    #accesorios-urbanos #bloque-accesorios{
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        width: 800px;
+    }
+
+    #caracteristicas-vocamx,
+    #bloque-accesorios{
+        background-size: 100% auto;
+    }
+
+    #opciones-cliente,
+    #recuperar-password{
+        background-size: cover;
+    }
+
+    #opciones-productos{
+        background-size: cover;
+    }
+
+    #fotos-producto .video-vocamx{
+        margin-top: 30%;
+    }
+
+    #registro-usuario{
+        max-width: 1000px;
+        width: 90%;
+    }
+
+    .datos-direccion h2,
+    .datos-usuario h2{
+        font-size: 2.3em;
+    }
+
+    .datos-direccion,
+    .datos-usuario{
+        float: left;
+        padding: 0 20px;
+        width: 50%;
+    }
+
+    #metodos-pago h2,
+    #confirmacion-pedido h2{
+        font-size: 3em;
+    }
+
+    #whatsapp{
+        display: block;
+    }
+
+    #whatsapp-mobile{
+        display: none;
+    }
+
+    .hidden-desktop{
+        display: none;
+    }
+    #hope-img1{
+        float: right;
+    }
+    .warranty-info2{
+        display: none;
+    }
+    .warranty-info{
+        display: block;
+    }
+    
+    #banner-movil{
+        display: none;
+    }
+    #banner-desk{
+        display: block;
+    }
+    
+    #popup-extra-custom .request {
+        background-image: url('../images/check-perso.jpg');    
+        height: 470px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    #popup-extra-custom .add-buttons-wrapper {    
+        position: absolute;
+        right: 20px;
+        bottom: 172px;
+        width: 445px;
+    }
+    .white-popup {
+        background: #FFF;
+        padding: 20px;
+        width: auto;
+        margin: 0 auto;
+    }
+    
+    .float-bottom{
+        display: none;
+    }
+}

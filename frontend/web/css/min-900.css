@@ -1,0 +1,512 @@
+@media all and (min-width: 900px) {
+    header{
+    }
+
+    body.menu-especial #contenedor-principal{
+        left: -40%;
+    }
+
+    body.menu-especial #menu-especial{
+        right: 0;
+        width: 40%;
+    }
+
+    #menu-especial{
+        right: -40%;
+        width: 40%;
+    }
+
+    #menu{
+        display: table-cell;
+        vertical-align: middle;
+        position: relative;
+        text-align: right;
+        width: 90%;
+    }
+
+    #menu ul{
+        margin: 0;
+    }
+
+    #menu ul li{
+        display: inline-block;
+        padding: 0 15px;
+    }
+
+    #menu a{
+        color: #fff;
+        font-family: 'Bebas Neue';
+        font-size: 1.3em;
+    }
+
+    #menu .bolsa{
+        color: #000;
+    }
+
+    #menu a.seleccionado,
+    #menu a:hover{
+        color: #c10230;
+    }
+
+    #logo{
+        text-align: left;
+        width: 10%;
+    }
+
+    #logo img {
+        max-width: 40px;
+    }
+
+    #carrito,
+    #boton-menu{
+        display: none;
+    }
+
+    #boton-comprar{
+        margin-top: 100px;
+    }
+
+    #opciones-destacadas{
+        position: absolute;
+        right: 0;
+        top: 10px;
+        width: 5%;
+    }
+
+    .destacada a{
+        padding: 10px 0;
+    }
+
+    #opciones-destacadas .bolsa{
+        position: relative;
+    }
+
+    #opciones-destacadas .bolsa span {
+        color: #c20f2f;
+        display: block;
+        left: 0;
+        font-size: 0.5em;
+        position: absolute;
+        text-align: center;
+        top: 12px;
+        width: 100%;
+    }
+
+    header .container{
+        width: 90%;
+    }
+
+    #texto-vocamx .container div{
+        max-width: 470px;
+        margin: 0 auto;
+    }
+
+    #reviews .container{
+        padding: 0 15%;
+        width: 90%;
+    }
+
+    #reviews .review div{
+        font-size: 1.2em;
+        text-align: justify;
+    }
+
+    #contenedor-fotos{
+        width: 100%;
+    }
+
+    #thumb-fotos .slick-slider .slick-list{
+        padding: 0 !important;
+    }
+
+    #thumb-fotos .foto{
+        background-color: transparent;
+        margin-bottom: 5px;
+    }
+
+    #thumb-fotos img{    
+        margin-bottom: 20px;
+        height: auto;
+        max-width: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100px;
+    }
+
+    #fotos-producto .video-vocamx{
+        height: auto;
+        margin-top: 10%;
+        max-width: none;
+        width: 60%;
+    }
+
+    #fotos-producto .video-js .vjs-big-play-button{
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        top: 80px;
+    }
+
+    #fotos-producto .video-js .vjs-big-play-button .vjs-icon-placeholder::before{
+        margin-top: 25px;
+        font-size: 50px;
+    }
+
+    #cantidad-fotos{
+        left: 16%;
+    }
+
+    #contenedor-fotos .container{
+        margin-top: 0;
+        width: 100%;
+    }
+
+    #datos-producto.container{
+        float: left;
+        margin: 0;
+        max-width: 500px;
+        width: 40%;
+    }
+
+    #fotos-producto .foto img{
+        height: auto;
+        width: 100%;
+        padding: 0 9px;
+    }
+
+    #fotos-producto .youtube iframe{
+    }
+
+     #fotos-producto .slick-dots{
+        display: none !important;
+    }
+
+    #datos-producto .metodos-pago{
+        border: 0;
+        display: none;
+        width: 100%;
+    }
+
+    #datos-producto .metodos-pago div{
+        display: table-cell;
+        float: left;
+        padding: 0;
+        max-width: 200px;
+        vertical-align: middle;
+        width: 50%;
+    }
+
+    #datos-producto .metodos-pago div img{
+        width: 30%;
+    }
+
+    #btn-comprar{
+        float: left;
+        margin: 20px 1%;
+        width: 48%;
+    }
+
+    .info-extra{
+        padding: 0;
+    }
+
+    #tabla-tallas{
+        max-width: none;
+        text-align: left;
+        width: 100%;
+    }
+
+    #tabla-tallas #imagen-tallas{
+        display: inline-block;
+        width: 550px;
+        max-width: 100%;
+    }
+
+    #tabla-tallas #imagen-medidas{
+        height: 250px;
+        width: auto;
+        display: inline-block;
+    }
+
+    .bombers-linea .bomber{
+        margin: 0 1%;
+        width: 48%;
+    }
+
+    .encabezado-pagina{
+        height: 40vh;
+    }
+
+    .encabezado-pagina div{
+        padding-bottom: 50px;
+        font-size: 3em;
+    }
+
+    .bloque-caracteristicas:nth-child(even){
+        text-align: left;
+    }
+
+    #caracteristicas-vocamx .container{
+        max-width: 900px;
+    }
+
+    #bloque-accesorios{
+        background-size: 100% auto;
+    }
+
+    #puntos-mexa .container{
+        width: 800px;
+    }
+
+    #piedra-azteca{
+        display: block;
+        float: none;
+        max-width: 500px;
+        width: 100%;
+    }
+
+    #piedra-azteca .imagen-punto,
+    #piedra-azteca .descripcion-punto{
+        display: block;
+    }
+
+    #piedra-azteca .imagen-punto{
+        max-width: 250px;
+        text-align: left;
+        width: 100%;
+    }
+
+    #ultra-mexa .container {
+        font-size: 6em;
+    }
+
+    .punto-mexa{
+        float: right;
+        width: 50%;
+    }
+
+    #encabezado-nosotros{
+        background-position: center bottom;
+    }
+
+    #datos-contacto .container{
+        background-size: 50% auto;
+    }
+
+    .bloque-caracteristicas .caracteristica{
+        font-family: 'Bebas Neue';
+        font-size: 2.3em;
+    }
+
+    .bloque-caracteristicas .caracteristica img{
+        max-width: 30px;
+    }
+
+    #texto-vocamx{
+        padding: 150px 0;
+    }
+
+    #slide-1 .texto-slide div{
+        max-width: 530px;
+        margin: 0 auto;
+    }
+
+    #slide-1 span{
+        font-size: 8.8em;
+    }
+
+    #imagotipo-slider{
+        float: left;
+        margin-top: -10px;
+    }
+
+    #slide-2 .texto-slide div{
+        width: 720px;
+    }
+
+    #slide-2 .texto-slide span.coolto {
+        font-size: 20em;
+        letter-spacing: 15px;
+    }
+
+    #slide-2 .texto-slide span{
+        font-size: 4em;
+        letter-spacing: 2px;
+        line-height: 1em;
+    }
+
+    #slide-2  .texto-slide .accesorios{
+        line-height: 0;
+    }
+
+    #slide-2 .texto-slide .cool-cultura{
+        line-height: 0;
+        margin-top: -20px;
+    }
+
+    #imagotipo-somos{
+        width: 150px;
+        margin-bottom: 60px;
+    }
+
+    #slide-3 .texto-slide {
+        padding: 0;
+        vertical-align: middle;
+        position: absolute;
+        right: 10%;
+        top: 25%;
+    }
+
+    #slide-4 .texto-slide .movimiento{
+        font-size: 7em;
+        letter-spacing: .02em;
+        line-height: .8em;
+        text-align: left;
+    }
+
+    #slide-4 .texto-slide .crear span{
+        display: none;
+    }
+
+    #slide-4 .texto-slide .frases{
+        font-size: 3.4em;
+    }
+
+    #slide-4 .texto-slide .crear,
+    #slide-4 .texto-slide .juntos{
+        font-size: 5em;
+    }
+
+     #slide-4 .texto-slide .juntos{
+         letter-spacing: .05;
+     }
+
+     #slide-5 .texto-slide .coleccion{
+         font-size: 3em;
+         letter-spacing: .15em;
+     }
+
+     #slide-5 .texto-slide .disponible{
+         font-size: 9.5em;
+     }
+
+     .bloque-caracteristicas .caracteristica{
+         font-size: 2.6em;
+     }
+
+     .bloque-caracteristicas .descripcion-caracteristica{
+         font-size: 1.5em;
+     }
+
+     #legal .legal{
+         border-right: 1px solid #333;
+         display: table-cell;
+         text-align: center;
+         width: 25%;
+     }
+
+
+     #legal .legal a{
+         color: #999;
+         font-size: 13px;
+     }
+
+     #legal .legal:nth-child(even){
+         border-right: 1px solid #333;
+     }
+
+     #legal .legal:last-of-type{
+         border: 0;
+     }
+
+     #categorias-productos .categoria{
+         width: 23%;
+     }
+
+     #opciones-productos{
+         padding: 100px 0 50px;
+     }
+
+     #opciones-productos .opcion-producto .nombre-mobile{
+         display: none;
+     }
+
+     #opciones-productos .opcion-producto{
+         display: table;
+         border-collapse: separate;
+         border-spacing: 10px;
+         max-width: 750px;
+     }
+
+     #opciones-productos .opcion-producto .nombre,
+     #opciones-productos .opcion-producto .imagen{
+         display: table-cell;
+         vertical-align: middle;
+     }
+
+     #opciones-productos .opcion-producto .nombre{
+         letter-spacing: .1em;
+         text-align: center;
+         font-size: 2.5em;
+         width: 50%;
+     }
+
+     #opciones-productos .opcion-producto .nombre span{
+         letter-spacing: 0;
+     }
+
+     #opciones-productos .opcion-producto .imagen{
+         width: 30%;
+     }
+
+     #must-have .must-have{
+         float: left;
+         margin: 30px 1%;
+         max-width: 300px;
+         width: 23%;
+     }
+
+     #must-have .container{
+         max-width: 800px;
+     }
+
+     #listado-productos .producto{
+         float: left;
+         margin: 10px 1%;
+         width: 31%;
+     }
+
+     #listado-productos{
+         margin: 0 auto;
+     }
+
+     #alta-personalizacion.fullscreen{
+         background-size: cover;
+     }
+
+     #alta-personalizacion #texto-personalizacion{
+         padding-top: 17vh;
+     }
+
+     #fotos-producto .slick-next,
+     #fotos-producto .slick-prev{
+         display: inherit !important;
+     }
+
+     #fotos-producto .slick-prev{
+     }
+
+     #fotos-producto .slick-next{
+     }
+
+     #bloque-header {
+        height: 123px;
+    }
+
+    #checkout-index #bloque-header{
+        height: 123px;
+    }
+}

@@ -1,0 +1,448 @@
+@media all and (max-width: 900px){
+    #muestra-descripcion-btn{
+        display: block;
+    }
+
+    .info-extra .precio-producto,
+    .info-extra .metodos-pago,
+    .info-extra .tiempo-envio,
+    .info-extra .devolucion,
+    .info-extra #comprar-producto,
+    #reviews{
+        width: auto;
+        float: unset;
+    }
+
+    .container.info-extra{
+        padding-left: 15px;
+    }
+
+    #recibo-pdf{
+        width: 100%;
+    }
+
+    header .container > div{
+        padding: 15px 0;
+    }
+
+    #sube-foto-bloque, #info-foto-bloque{
+        padding: 0 15px;
+    }
+
+    #checkout-index main > .container-fluid{
+        top: 105px;
+    }
+    main #personalizacion {
+        padding-top: 0px;
+        height: 72vh;
+        margin-bottom: 0;
+    }
+
+    main .bloque-input-mob {
+        position: absolute;
+        max-width: 110%;
+        top: 73%;
+        left: -15px;
+        background-color: #fff;
+    }
+
+    main #bloque-bomber {
+        background-size: auto 99%;
+        background-position-x: center;
+        background-position-y: 270%;
+    }
+
+    .textos-personaliza input {
+        display: block;
+        float: left;
+        margin: 5px 1%;
+        text-align: center;
+         width: 88%;
+        color: #999;
+        height: 25%;
+        border: 0;
+        font-size: 15px;
+        font-family: bebas Neue;
+    }
+
+    .imagen-subir {
+        max-width: 45px;
+        max-height: 45px;
+        padding-top: 4px;
+        padding-left: 5px;
+    }
+
+    .img-bomber{
+        width: 118%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .img-bomber1{
+        width: 123%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .img-bomber2{
+        width: 117%;
+        height: auto;
+        padding-top: 5px;
+    }
+
+    .personaliza-img {
+        max-width: 26px;
+        max-height: 45px;
+        padding-top: 7px;
+        padding-left: 5px;
+    }
+
+    .imagen-camara {
+        height: 74%;
+        width: 6%;
+    }
+
+    .btn-ayuda-personalizacion{
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        width: 155px;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-color: #c10230;
+        font-size: 1.3em;
+        font-family: 'Bebas Neue';
+        border-radius: 1px 1px 10px 10px;
+        height: 27px;
+    }
+    .text-donde {
+        color: #999;
+        font-size: 16px;
+        padding: 13px;
+    }
+
+    #customphotoform-menu {
+        padding-top: 7px;
+        float: right;
+        text-align: center;
+        width: 98%;
+        color: #999;
+        height: 10%;
+        border: 0;
+        font-size: 14px;
+        display: inline-block;
+    }
+    .btn-ayuda-personalizacion img{
+        display: inline-block;
+        max-width: 22px;
+    }
+
+    .img-chica1{
+        width: 119%;
+        height: auto;
+    }
+
+    .img-chica2{
+        width: 117%;
+        height: auto;
+    }
+
+    .img-chica3{
+        width: 125%;
+        height: auto;
+        padding-top: 8px;
+    }
+
+    #pasos-trazos{
+        background-color: #f1f1f1;
+         margin-bottom: 2px;
+        padding: 2px 0px 0px 11px;
+        border-left: 12px solid #fff;
+        border-right: 33px solid #fff;
+
+    }
+    .franja-imagen {
+        background-color: #999;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #fff;
+        font-weight: bold;
+        font-size: 18px;
+        border-left: 12px solid #fff;
+        border-right: 33px solid #fff;
+        height: 23px;
+    }
+
+
+    .franja-comenzar {
+        background-color: #transparent;
+        padding: 0px 0;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        color: #000;
+        font-size: 25px;
+    }
+
+    .franja-ayuda{
+        background-color: #transparent;
+        font-family: 'karla';
+        text-transform: uppercase;
+        color: #c10230;
+        font-weight: bold;
+        font-size: 13 px;
+        padding: 29px;
+        padding-bottom: 5px;
+    }
+
+
+    .franja-importante{
+        background-color: #fff;
+        padding-top: 1px;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-size: 24px;
+    }
+
+    .franja-conoce{
+        background-color: #fff;
+        padding-top: 1px;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #000;
+        font-size: 23px;
+    }
+
+    .franja-ayudasiguiente{
+        background-color: #fff;
+        font-family: 'bebas Neue';
+        text-transform: uppercase;
+        border: 1px solid #fff;
+        color: #999;
+        font-weight: bold;
+        font-size: 16px;
+        letter-spacing: -1px;
+    }
+
+    .imagen-ayuda{
+        width: 90%;
+        height: auto;
+        padding-top: 10px;
+        padding-left: 10px;
+
+    }
+
+    .texto-derechos{
+        font-size: 10px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 12px;
+        padding: 5px;
+
+    }
+    .texto-imagen-frente{
+        font-size: 10px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 11px;
+        padding: 5px;
+        padding-left: 5px;
+    }
+    .texto-nitido{
+        font-size: 10px;
+        color: #999;
+        font-family: bebas Neue;
+        line-height: 11px;
+        padding: 5px;
+        padding-left: 15px;
+    }
+
+    .dia-entrega{
+        font-size: 14px;
+        color: #c10230;
+        font-family: bebas Neue;
+    }
+
+    .imagen-carrito-entrega {
+        width: 23%;
+        margin-left: 40px;
+    }
+
+    #btn-siguiente{
+        color: #fff;
+        background-color: #000;
+        width: 142px;
+        margin-bottom: 10px;
+    }
+
+    #btn-siguiente {
+        padding-top: 1px;
+    }
+
+    .video-proceso{
+        width: 93%;
+        height: auto;
+    }
+
+    #precio-trazado .ahorro-bomber > span{
+        font-size: 13px;
+    }
+
+    #customphotoform-elementos {
+        width: 50px;
+        height: auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .control-label{
+        font-size: 24px;
+        font-family: bebas Neue;
+        font-weight: normal;
+    }
+
+    #precio-trazado .control-label{
+        margin-bottom: 0;
+    }
+
+    #precio-trazado .help-block{
+        margin-bottom: 0;
+    }
+    .producto-nuevotitulo{
+        font-family: bebas Neue;
+        font-size: 24px;
+        }
+
+    .ahorro-bomber{
+        line-height: 0;
+        margin-bottom: 2px;
+        font-size: 14px;
+    }
+    #producto-nuevo label{
+        font-weight: normal;
+
+    }
+    #producto-nuevo{
+        width: 34%;
+        float: left;
+        font-size: 14px;
+        font-family: bebas Neue;
+    }
+    .palomita-img{
+        width: 11%;
+        height: auto;
+    }
+
+    .title-gallery{
+        background-color: #f1f1f1;
+        color: #c6c6c6;
+        font-family: 'Bebas Neue';
+    }
+
+    #popup-galeria-custom .col-xs-4.col-sm-4{
+        padding: 2px;
+    }
+
+    .imagen-carrousel{
+        width: 100%;
+        height: auto;
+    }
+
+
+    .texto-fondo{
+        position: absolute;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.5);
+        padding-right: 10px;
+        padding-left: 10px;
+        color: #fff;
+        width: 100%;
+    }
+    .texto-abajo{
+        font-size: 17px;
+        font-family: 'bebas Neue';
+        margin-bottom: 0;
+    }
+
+    .texto-abajo-agrega{
+        font-size: 12px;
+        font-family: 'bebas Neue';
+        margin-bottom: 0;
+
+    }
+    .tatuajes
+    {
+        display: inline-block;
+        width: 50%;
+    }
+    .costo{
+        display: inline-block;
+        width: 50%;
+        float: right;
+        text-align: right;
+    }
+    .agrega
+    {
+        display: inline-block;
+        width: 65%;
+    }
+    .entrega{
+        display: inline-block;
+        width: 35%;
+        float: right;
+        text-align: right;
+    }
+
+    .form-group.field-customphotoform-fotocustom.required {
+        margin-bottom: 0px;
+    }
+
+    #name-file{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    #imagen-cargada img{
+        display: block;
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    #subida-exito{
+        display: none;
+        color: #31B404;
+        font-size: 30px;
+        margin-top: 8px;
+        margin-left: 5px;
+    }
+
+    #customphotoform-menu.formcontrol select {
+        width: 58%;
+        height: auto;
+        font-size: 11px;
+    }
+
+    .form-group.field-customphotoform-menu {
+        width: 40%;
+        float: right;
+    }
+    #texto-asistencia{
+        font-size: 20px;
+    }
+
+    #paso2 {
+        margin-bottom: -18px;
+    }
+
+    iframe.video-youtube-proceso {
+        height: 291px;
+        width: 320px;
+    }
+
+}

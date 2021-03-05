@@ -1,0 +1,13 @@
+@media all and (max-width: 320px){
+    .btn-circular-rojo{
+        font-size: 1em;
+    }
+
+    #crea-la-tuya .boton-bloque p {
+        font-size: 0.7em;
+    }
+
+    .producto-img-wrapper .product-img{
+    min-height: 110px;
+    }
+}

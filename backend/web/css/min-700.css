@@ -1,0 +1,65 @@
+@media all and (min-width: 700px) {
+    #contenedor-embajadores{
+        width: 100%;
+    }
+
+    #menu ul li{
+        display: inline-block;
+    }
+
+    #ultra-mexa{
+        padding: 75px 0;
+    }
+
+    #listado-productos .producto{
+        float: left;
+        margin: 10px 1%;
+        width: 48%;
+    }
+
+    #campo-cantidad{
+        width: 200px;
+    }
+
+    #campo-cantidad .nombre-campo{
+        width: 100px;
+    }
+
+    #campo-cantidad .valor-campo{
+        width: 100px;
+    }
+
+    #listado-productos .producto .datos-bomber .descripcion-breve{
+        padding: 10px 20px;
+    }
+
+    .bombers-compradas .bomber{
+        display: table;
+        margin: 0 auto;
+        max-width: 600px;
+        width: 80%;
+    }
+
+    .bombers-compradas .imagen-bomber{
+        display: table-cell;
+        vertical-align: middle;
+        width: 50%;
+    }
+
+    .bombers-compradas .foto-bomber{
+        max-width: 300px;
+        width: 100%;
+    }
+
+    .bombers-compradas .datos-bomber{
+        display: table-cell;
+        vertical-align: middle;
+        width: 50%;
+    }
+
+    .bombers-compradas .imagen-personalizado .plantilla-personalizado{
+        left: 34%;
+        padding-top: 30%;
+        width: 30%;
+    }
+}

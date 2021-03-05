@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Angelita';
+    src: url('Angelita.eot');
+    src: url('Angelita.eot?#iefix') format('embedded-opentype'),
+        url('Angelita.woff2') format('woff2'),
+        url('Angelita.woff') format('woff'),
+        url('Angelita.ttf') format('truetype'),
+        url('Angelita.svg#Angelita') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

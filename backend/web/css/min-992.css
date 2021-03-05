@@ -1,0 +1,70 @@
+@media all and (min-width: 992px) {
+    #bloque-productos .producto{
+        width: 23%;
+    }
+
+    .foto-comunidad{
+        margin: 30px 1%;
+        width: 23%;
+    }
+
+    #descripcion-vocamx #bloque-vocamx,
+    #accesorios-urbanos #bloque-accesorios{
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        width: 800px;
+    }
+
+    #caracteristicas-vocamx,
+    #bloque-accesorios{
+        background-size: 100% auto;
+    }
+
+    #opciones-cliente,
+    #recuperar-password{
+        background-size: cover;
+    }
+
+    #opciones-productos{
+        background-size: cover;
+    }
+
+    #fotos-producto .video-vocamx{
+        margin-top: 30%;
+    }
+
+    #registro-usuario{
+        max-width: 1000px;
+        width: 90%;
+    }
+
+    .datos-direccion h2,
+    .datos-usuario h2{
+        font-size: 2.3em;
+    }
+
+    .datos-direccion,
+    .datos-usuario{
+        float: left;
+        padding: 0 20px;
+        width: 50%;
+    }
+
+    #metodos-pago h2,
+    #confirmacion-pedido h2{
+        font-size: 3em;
+    }
+
+    #whatsapp{
+        display: block;
+    }
+
+    #whatsapp-mobile{
+        display: none;
+    }
+
+    .hidden-desktop{
+        display: none;
+    }
+}
